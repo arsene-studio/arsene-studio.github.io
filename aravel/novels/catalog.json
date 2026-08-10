@@ -2,13 +2,14 @@
   {
     "id": "joanne",
     "title": "Joanne",
-    "author": "Example Author",
-    "category": "Romance",
-    "published": "1920",
-    "language": "English",
-    "chapters": 10,
-    "description": "A classic novel available to read in the Aravel library.",
+    "author": "Bram Stoker",
+    "category": "Horror",
     "cover": "https://arsene-studio.github.io/aravel/covers/joanne.jpg",
+    "published": 1897,
+    "language": "English",
+    "chapters": 2,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/joanne.json"
   }
 ]
