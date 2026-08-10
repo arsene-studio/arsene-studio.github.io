@@ -1,0 +1,1 @@
+Aravel remote novel data.
