@@ -1,0 +1,1 @@
+Create Aravel covers directory
