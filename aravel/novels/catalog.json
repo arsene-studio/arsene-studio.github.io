@@ -11,5 +11,18 @@
     "description": "A classic novel available to read in the Aravel library.",
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/joanne.json"
+  },
+  {
+    "id": "sherlock-holmes-study",
+    "title": "A Study in Scarlet",
+    "author": "Arthur Doyle",
+    "category": "Mystery",
+    "cover": "https://arsene-studio.github.io/aravel/covers/sherlock-holmes.jpg",
+    "published": 1880,
+    "language": "English",
+    "chapters": 25,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/sherlock-holmes-study-scarlet.json"
   }
 ]
