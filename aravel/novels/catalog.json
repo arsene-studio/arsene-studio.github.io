@@ -1,28 +1,41 @@
 [
   {
-    "id": "joanne",
-    "title": "Joanne",
+    "id": "dracula",
+    "title": "Dracula",
     "author": "Bram Stoker",
     "category": "Horror",
-    "cover": "https://arsene-studio.github.io/aravel/covers/joanne.jpg",
+    "cover": "https://arsene-studio.github.io/aravel/covers/dracula.jpg",
     "published": 1897,
     "language": "English",
-    "chapters": 2,
+    "chapters": 27,
     "description": "A classic novel available to read in the Aravel library.",
     "source": "remote",
-    "data": "https://arsene-studio.github.io/aravel/novels/joanne.json"
+    "data": "https://arsene-studio.github.io/aravel/novels/dracula.json"
   },
   {
-    "id": "sherlock-holmes-study",
-    "title": "A Study in Scarlet",
-    "author": "Arthur Doyle",
-    "category": "Mystery",
-    "cover": "https://arsene-studio.github.io/aravel/covers/sherlock-holmes.jpg",
-    "published": 1880,
+    "id": "frankenstein",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/frankenstein.jpg",
+    "published": 1818,
     "language": "English",
-    "chapters": 25,
+    "chapters": 24,
     "description": "A classic novel available to read in the Aravel library.",
     "source": "remote",
-    "data": "https://arsene-studio.github.io/aravel/novels/sherlock-holmes-study-scarlet.json"
+    "data": "https://arsene-studio.github.io/aravel/novels/frankenstein.json"
+  },
+  {
+    "id": "the-strange-case",
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "category": "Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-strange-case.jpg",
+    "published": 1886,
+    "language": "English",
+    "chapters": 10,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-strange-case.json"
   }
 ]
