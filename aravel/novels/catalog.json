@@ -26,6 +26,19 @@
 "data": "https://arsene-studio.github.io/aravel/novels/the-jewel-of-seven-stars.json"
 },
 {
+"id": "the-strange-case",
+"title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+"author": "Robert Louis Stevenson",
+"category": "Horror",
+"cover": "https://arsene-studio.github.io/aravel/covers/the-strange-case.jpg",
+"published": 1886,
+"language": "English",
+"chapters": 10,
+"description": "A classic novel available to read in the Aravel library.",
+"source": "remote",
+"data": "https://arsene-studio.github.io/aravel/novels/the-strange-case.json"
+},
+{
 "id": "the-great-god-pan",
 "title": "The Great God Pan",
 "author": "Arthur Machen",
