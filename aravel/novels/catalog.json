@@ -128,5 +128,31 @@
 "description": "A classic collection of detective stories available to read in the Aravel library.",
 "source": "remote",
 "data": "https://arsene-studio.github.io/aravel/novels/the-innocence-of-father-brown.json"
-}
+},
+{
+    "id": "the-time-machine",
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-time-machine.jpg",
+    "published": 1895,
+    "language": "English",
+    "chapters": 16,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-time-machine.json"
+  },
+ {
+    "id": "the-lost-world",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-lost-world.jpg",
+    "published": 1912,
+    "language": "English",
+    "chapters": 16,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-lost-world.json"
+  } 
 ]
