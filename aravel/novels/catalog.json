@@ -167,5 +167,31 @@
     "description": "A classic novel available to read in the Aravel library.",
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-lost-world.json"
-  } 
+  },
+  {
+    "id": "the-poison-belt",
+    "title": "The Poison Belt",
+    "author": "Arthur Conan Doyle",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-poison-belt.jpg",
+    "published": 1913,
+    "language": "English",
+    "chapters": 6,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-poison-belt.json"
+  },
+  {
+    "id": "herland",
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/herland.jpg",
+    "published": 1915,
+    "language": "English",
+    "chapters": 12,
+    "description": "A classic novel available to read in the Aravel library.",
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/herland.json"
+  },
 ]
