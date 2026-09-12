@@ -91,19 +91,6 @@
     "data": "https://arsene-studio.github.io/aravel/novels/the-hound-of-the-baskervilles.json"
   },
   {
-    "id": "the-adventures-of-sherlock-holmes",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Arthur Conan Doyle",
-    "category": "Mystery & Detective",
-    "cover": "https://arsene-studio.github.io/aravel/covers/the-adventures-of-sherlock-holmes.jpg",
-    "published": 1892,
-    "language": "English",
-    "chapters": 12,
-    "description": "A classic collection of Sherlock Holmes stories available to read in the Aravel library.",
-    "source": "remote",
-    "data": "https://arsene-studio.github.io/aravel/novels/the-adventures-of-sherlock-holmes.json"
-  },
-  {
     "id": "the-thirty-nine-steps",
     "title": "The Thirty-Nine Steps",
     "author": "John Buchan",
