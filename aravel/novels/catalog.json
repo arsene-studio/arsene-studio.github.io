@@ -91,19 +91,6 @@
 "data": "https://arsene-studio.github.io/aravel/novels/the-hound-of-the-baskervilles.json"
 },
 {
-"id": "the-adventures-of-sherlock-holmes",
-"title": "The Adventures of Sherlock Holmes",
-"author": "Arthur Conan Doyle",
-"category": "Mystery & Detective",
-"cover": "https://arsene-studio.github.io/aravel/covers/the-adventures-of-sherlock-holmes.jpg",
-"published": 1892,
-"language": "English",
-"chapters": 12,
-"description": "A collection of twelve Sherlock Holmes mysteries featuring some of the detective's most memorable cases. Alongside Dr. Watson, Holmes investigates thefts, disappearances, suspicious behavior, and seemingly impossible crimes. Arthur Conan Doyle showcases Holmes's powers of observation, logical deduction, and unconventional investigation while capturing the atmosphere of late Victorian London.",
-"source": "remote",
-"data": "https://arsene-studio.github.io/aravel/novels/the-adventures-of-sherlock-holmes.json"
-},
-{
 "id": "the-thirty-nine-steps",
 "title": "The Thirty-Nine Steps",
 "author": "John Buchan",
