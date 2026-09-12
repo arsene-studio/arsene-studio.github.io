@@ -193,5 +193,18 @@
 "description": "Set decades after a devastating epidemic has nearly destroyed human civilization, an elderly survivor tells his grandchildren about the world before the catastrophe. Jack London imagines a future shaped by disease, social collapse, survival, and the gradual loss of knowledge. The novel reflects on civilization's fragility and humanity's struggle to rebuild after disaster.",
 "source": "remote",
 "data": "https://arsene-studio.github.io/aravel/novels/the-scarlet-plague.json"
+},
+  {
+"id": "the-great-gatsby",
+"title": "The Great Gatsby",
+"author": "F. Scott Fitzgerald",
+"category": "Romance",
+"cover": "https://arsene-studio.github.io/aravel/covers/the-great-gatsby.jpg",
+"published": 1925,
+"language": "English",
+"chapters": 9,
+"description": "Set in the wealthy world of 1920s Long Island, the novel follows Nick Carraway as he becomes drawn into the mysterious life of his neighbor, Jay Gatsby. Behind Gatsby's lavish parties lies a deep longing for a lost love and an idealized past. F. Scott Fitzgerald explores ambition, wealth, social class, illusion, and the fragility of the American Dream.",
+"source": "remote",
+"data": "https://arsene-studio.github.io/aravel/novels/the-great-gatsby.json"
 }
 ]
