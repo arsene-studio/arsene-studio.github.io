@@ -206,5 +206,18 @@
 "description": "Set in the wealthy world of 1920s Long Island, the novel follows Nick Carraway as he becomes drawn into the mysterious life of his neighbor, Jay Gatsby. Behind Gatsby's lavish parties lies a deep longing for a lost love and an idealized past. F. Scott Fitzgerald explores ambition, wealth, social class, illusion, and the fragility of the American Dream.",
 "source": "remote",
 "data": "https://arsene-studio.github.io/aravel/novels/the-great-gatsby.json"
-}
+},
+{
+ "id": "the-picture-of-dorian-gray",
+ "title": "The Picture of Dorian Gray",
+ "author": "Oscar Wilde",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-picture-of-dorian-gray.jpg",
+ "published": 1890,
+ "language": "English",
+ "chapters": 20,
+ "description": "Dorian Gray, a handsome young man, becomes obsessed with preserving his youth and beauty after seeing a portrait of himself. Under the influence of Lord Henry Wotton, he pursues a life of pleasure while the portrait mysteriously records the corruption of his soul. The novel explores desire, beauty, temptation, love, morality, and the destructive consequences of a life devoted to pleasure.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-picture-of-dorian-gray.json"
+}  
 ]
