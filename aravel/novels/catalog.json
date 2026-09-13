@@ -232,5 +232,18 @@
  "description": "Two European relatives arrive in New England and bring their unfamiliar manners, romantic expectations, and worldly experiences into a conservative American family. As relationships develop, the novel explores courtship, marriage, cultural differences, social expectations, and the contrasting values of European and American society.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-europeans.json"
+},
+{
+ "id": "king-solomons-mines",
+ "title": "King Solomon's Mines",
+ "author": "H. Rider Haggard",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/king-solomons-mines.jpg",
+ "published": 1885,
+ "language": "English",
+ "chapters": 20,
+ "description": "Allan Quatermain joins Sir Henry Curtis and Captain Good on a dangerous expedition into the unexplored interior of Africa in search of a legendary lost treasure. Their journey brings them into conflict, danger, and unexpected relationships as they encounter unfamiliar kingdoms and ancient secrets. The novel combines adventure, romance, friendship, and the excitement of exploration.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/king-solomons-mines.json"
 }
 ]
