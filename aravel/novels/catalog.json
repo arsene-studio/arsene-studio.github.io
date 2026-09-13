@@ -245,5 +245,18 @@
  "description": "Allan Quatermain joins Sir Henry Curtis and Captain Good on a dangerous expedition into the unexplored interior of Africa in search of a legendary lost treasure. Their journey brings them into conflict, danger, and unexpected relationships as they encounter unfamiliar kingdoms and ancient secrets. The novel combines adventure, romance, friendship, and the excitement of exploration.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/king-solomons-mines.json"
+},
+{
+ "id": "the-princess-of-cleves",
+ "title": "The Princess of Cleves",
+ "author": "Madame de La Fayette",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-princess-of-cleves.jpg",
+ "published": 1678,
+ "language": "English",
+ "chapters": 4,
+ "description": "Set in the royal court of sixteenth-century France, the novel follows a young woman who marries the Prince of Cleves but develops a powerful and forbidden love for the Duke of Nemours. Torn between passion, duty, and virtue, she struggles to remain faithful to her principles while confronting the consequences of love and jealousy within a court filled with intrigue.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-princess-of-cleves.json"
 }
 ]
