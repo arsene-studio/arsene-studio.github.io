@@ -219,5 +219,18 @@
  "description": "Dorian Gray, a handsome young man, becomes obsessed with preserving his youth and beauty after seeing a portrait of himself. Under the influence of Lord Henry Wotton, he pursues a life of pleasure while the portrait mysteriously records the corruption of his soul. The novel explores desire, beauty, temptation, love, morality, and the destructive consequences of a life devoted to pleasure.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-picture-of-dorian-gray.json"
-}  
+},
+{
+ "id": "the-europeans",
+ "title": "The Europeans",
+ "author": "Henry James",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-europeans.jpg",
+ "published": 1878,
+ "language": "English",
+ "chapters": 12,
+ "description": "Two European relatives arrive in New England and bring their unfamiliar manners, romantic expectations, and worldly experiences into a conservative American family. As relationships develop, the novel explores courtship, marriage, cultural differences, social expectations, and the contrasting values of European and American society.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-europeans.json"
+}
 ]
