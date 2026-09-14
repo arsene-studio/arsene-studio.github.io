@@ -271,5 +271,18 @@
  "description": "Through a series of letters, the young Werther describes his intense emotions and growing love for Charlotte, a woman who is already engaged to another man. Unable to reconcile his passionate feelings with the reality of their circumstances, Werther becomes increasingly consumed by longing, loneliness, and despair. The novel explores unrequited love, emotional obsession, friendship, and the conflict between passion and reason.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-sorrows-of-young-werther.json"
+},
+{
+ "id": "cranford",
+ "title": "Cranford",
+ "author": "Elizabeth Gaskell",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/cranford.jpg",
+ "published": 1853,
+ "language": "English",
+ "chapters": 16,
+ "description": "Cranford follows the lives, friendships, and quiet dramas of the women living in a small Victorian English town. Through stories of companionship, loss, social customs, and long-forgotten relationships, the novel portrays the importance of affection and community in everyday life. Its gentle humor and emotional moments reveal how love and friendship endure through changing times.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/cranford.json"
 }
 ]
