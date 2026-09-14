@@ -258,5 +258,18 @@
  "description": "Set in the royal court of sixteenth-century France, the novel follows a young woman who marries the Prince of Cleves but develops a powerful and forbidden love for the Duke of Nemours. Torn between passion, duty, and virtue, she struggles to remain faithful to her principles while confronting the consequences of love and jealousy within a court filled with intrigue.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-princess-of-cleves.json"
+},
+{
+ "id": "the-sorrows-of-young-werther",
+ "title": "The Sorrows of Young Werther",
+ "author": "Johann Wolfgang von Goethe",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-sorrows-of-young-werther.jpg",
+ "published": 1774,
+ "language": "English",
+ "chapters": 2,
+ "description": "Through a series of letters, the young Werther describes his intense emotions and growing love for Charlotte, a woman who is already engaged to another man. Unable to reconcile his passionate feelings with the reality of their circumstances, Werther becomes increasingly consumed by longing, loneliness, and despair. The novel explores unrequited love, emotional obsession, friendship, and the conflict between passion and reason.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-sorrows-of-young-werther.json"
 }
 ]
