@@ -284,5 +284,18 @@
  "description": "Cranford follows the lives, friendships, and quiet dramas of the women living in a small Victorian English town. Through stories of companionship, loss, social customs, and long-forgotten relationships, the novel portrays the importance of affection and community in everyday life. Its gentle humor and emotional moments reveal how love and friendship endure through changing times.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/cranford.json"
+},
+{
+ "id": "the-aspern-papers",
+ "title": "The Aspern Papers",
+ "author": "Henry James",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-aspern-papers.jpg",
+ "published": 1888,
+ "language": "English",
+ "chapters": 9,
+ "description": "An ambitious literary scholar travels to Venice in search of the private letters of the famous poet Jeffrey Aspern, hoping to obtain valuable material about the poet and his former lover. He secretly rents rooms from the elderly woman who possesses the papers and becomes entangled with her niece. The story explores obsession, desire, secrecy, manipulation, and the dangerous boundaries between love and possession.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-aspern-papers.json"
 }
 ]
