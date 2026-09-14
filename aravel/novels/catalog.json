@@ -297,5 +297,18 @@
  "description": "An ambitious literary scholar travels to Venice in search of the private letters of the famous poet Jeffrey Aspern, hoping to obtain valuable material about the poet and his former lover. He secretly rents rooms from the elderly woman who possesses the papers and becomes entangled with her niece. The story explores obsession, desire, secrecy, manipulation, and the dangerous boundaries between love and possession.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-aspern-papers.json"
+},
+{
+ "id": "daisy-miller",
+ "title": "Daisy Miller",
+ "author": "Henry James",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/daisy-miller.jpg",
+ "published": 1878,
+ "language": "English",
+ "chapters": 2,
+ "description": "Frederick Winterbourne becomes fascinated by Daisy Miller, a young American woman whose independent behavior challenges the strict social conventions of European society. Their relationship develops amid misunderstandings, gossip, and conflicting expectations about proper conduct. The story explores attraction, innocence, social judgment, reputation, and the consequences of refusing to conform to society's rules.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/daisy-miller.json"
 }
 ]
