@@ -323,5 +323,18 @@
  "description": "A grieving man creates a private altar dedicated to the memory of the people he has lost, seeking a way to preserve their presence beyond death. His devotion to the dead becomes intertwined with his complicated relationship with an old acquaintance who holds a different view of remembrance and forgiveness. The story explores grief, memory, love, friendship, and the enduring bonds between people separated by death.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-altar-of-the-dead.json"
+},
+{
+ "id": "kim",
+ "title": "Kim",
+ "author": "Rudyard Kipling",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/kim.jpg",
+ "published": 1901,
+ "language": "English",
+ "chapters": 15,
+ "description": "Kimball O'Hara, an orphan growing up on the streets of British India, becomes involved in a dangerous political struggle known as the Great Game. Traveling across India with a Tibetan lama while working as a spy, Kim encounters soldiers, merchants, holy men, and mysterious agents. Rudyard Kipling combines adventure, espionage, friendship, and a vivid portrait of India during the British colonial period.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/kim.json"
 }
 ]
