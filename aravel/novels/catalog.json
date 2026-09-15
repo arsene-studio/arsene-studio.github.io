@@ -349,5 +349,18 @@
  "description": "Buck, a powerful domesticated dog, is stolen from his comfortable home and forced into the brutal life of a sled dog during the Klondike Gold Rush. As he struggles against harsh conditions, rival dogs, and cruel masters, Buck gradually reconnects with his primitive instincts and the wilderness. Jack London explores survival, loyalty, strength, and the powerful pull of nature.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-call-of-the-wild.json"
-}
+},
+{
+ "id": "the-ebb-tide",
+ "title": "The Ebb-Tide",
+ "author": "Robert Louis Stevenson and Lloyd Osbourne",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-ebb-tide.jpg",
+ "published": 1894,
+ "language": "English",
+ "chapters": 12,
+ "description": "Four desperate men aboard a ship in the South Pacific become involved in a dangerous scheme after discovering an opportunity to escape their troubled lives. Their journey takes them through deception, greed, disease, and moral conflict as they pursue fortune on a remote island. Robert Louis Stevenson and Lloyd Osbourne create a dark maritime adventure that examines survival, corruption, and the consequences of desperation.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-ebb-tide.json"
+ }  
 ]
