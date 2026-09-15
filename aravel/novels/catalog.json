@@ -310,5 +310,18 @@
  "description": "Frederick Winterbourne becomes fascinated by Daisy Miller, a young American woman whose independent behavior challenges the strict social conventions of European society. Their relationship develops amid misunderstandings, gossip, and conflicting expectations about proper conduct. The story explores attraction, innocence, social judgment, reputation, and the consequences of refusing to conform to society's rules.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/daisy-miller.json"
+},
+{
+ "id": "the-altar-of-the-dead",
+ "title": "The Altar of the Dead",
+ "author": "Henry James",
+ "category": "Romance",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-altar-of-the-dead.jpg",
+ "published": 1895,
+ "language": "English",
+ "chapters": 1,
+ "description": "A grieving man creates a private altar dedicated to the memory of the people he has lost, seeking a way to preserve their presence beyond death. His devotion to the dead becomes intertwined with his complicated relationship with an old acquaintance who holds a different view of remembrance and forgiveness. The story explores grief, memory, love, friendship, and the enduring bonds between people separated by death.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-altar-of-the-dead.json"
 }
 ]
