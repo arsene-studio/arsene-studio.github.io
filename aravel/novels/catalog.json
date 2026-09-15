@@ -336,5 +336,18 @@
  "description": "Kimball O'Hara, an orphan growing up on the streets of British India, becomes involved in a dangerous political struggle known as the Great Game. Traveling across India with a Tibetan lama while working as a spy, Kim encounters soldiers, merchants, holy men, and mysterious agents. Rudyard Kipling combines adventure, espionage, friendship, and a vivid portrait of India during the British colonial period.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/kim.json"
+},
+{
+ "id": "the-call-of-the-wild",
+ "title": "The Call of the Wild",
+ "author": "Jack London",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-call-of-the-wild.jpg",
+ "published": 1903,
+ "language": "English",
+ "chapters": 7,
+ "description": "Buck, a powerful domesticated dog, is stolen from his comfortable home and forced into the brutal life of a sled dog during the Klondike Gold Rush. As he struggles against harsh conditions, rival dogs, and cruel masters, Buck gradually reconnects with his primitive instincts and the wilderness. Jack London explores survival, loyalty, strength, and the powerful pull of nature.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-call-of-the-wild.json"
 }
 ]
