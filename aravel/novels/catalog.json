@@ -362,5 +362,18 @@
  "description": "Four desperate men aboard a ship in the South Pacific become involved in a dangerous scheme after discovering an opportunity to escape their troubled lives. Their journey takes them through deception, greed, disease, and moral conflict as they pursue fortune on a remote island. Robert Louis Stevenson and Lloyd Osbourne create a dark maritime adventure that examines survival, corruption, and the consequences of desperation.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-ebb-tide.json"
- }  
+ },
+{
+ "id": "the-wrong-box",
+ "title": "The Wrong Box",
+ "author": "Robert Louis Stevenson and Lloyd Osbourne",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-wrong-box.jpg",
+ "published": 1889,
+ "language": "English",
+ "chapters": 16,
+ "description": "A valuable inheritance, a mistaken identity, and a body accidentally placed in the wrong box set off a chaotic chain of events involving two brothers and a group of unlikely characters. As the characters attempt to protect themselves and claim their fortunes, the story becomes a series of comic pursuits, misunderstandings, and unexpected adventures. Robert Louis Stevenson and Lloyd Osbourne combine adventure, black comedy, and farce in this fast-moving tale.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-wrong-box.json"
+}
 ]
