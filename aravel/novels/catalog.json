@@ -375,5 +375,18 @@
  "description": "A valuable inheritance, a mistaken identity, and a body accidentally placed in the wrong box set off a chaotic chain of events involving two brothers and a group of unlikely characters. As the characters attempt to protect themselves and claim their fortunes, the story becomes a series of comic pursuits, misunderstandings, and unexpected adventures. Robert Louis Stevenson and Lloyd Osbourne combine adventure, black comedy, and farce in this fast-moving tale.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-wrong-box.json"
+},
+{
+ "id": "prester-john",
+ "title": "Prester John",
+ "author": "John Buchan",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/prester-john.jpg",
+ "published": 1910,
+ "language": "English",
+ "chapters": 23,
+ "description": "David Crawfurd, a young Scottish man serving in colonial Africa, becomes caught up in a dangerous uprising led by a charismatic African leader who claims the title of Prester John. Forced to navigate unfamiliar territory, political conflict, and violent rebellion, David faces a series of perilous encounters across the African landscape. John Buchan combines exploration, suspense, warfare, and adventure in a classic tale of imperial-era intrigue.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/prester-john.json"
 }
 ]
