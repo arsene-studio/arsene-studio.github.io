@@ -401,5 +401,18 @@
  "description": "Rudolf Rassendyll, an English gentleman traveling in the fictional kingdom of Ruritania, discovers that he bears a remarkable resemblance to the country's king. When the king is kidnapped on the eve of his coronation, Rudolf is persuaded to impersonate him and protect the throne. Anthony Hope combines sword fights, political intrigue, romance, loyalty, and daring escapes in one of the classic adventure novels of the Victorian era.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-prisoner-of-zenda.json"
+},
+{
+ "id": "the-master-of-ballantrae",
+ "title": "The Master of Ballantrae",
+ "author": "Robert Louis Stevenson",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-master-of-ballantrae.jpg",
+ "published": 1889,
+ "language": "English",
+ "chapters": 12,
+ "description": "The bitter rivalry between two Scottish brothers, James and Henry Durie, grows after James joins the Jacobite cause while Henry remains loyal to the government. Their conflict follows them across Scotland, the American wilderness, and the seas, bringing betrayal, revenge, violence, and shifting fortunes. Robert Louis Stevenson blends historical adventure with psychological drama as the brothers become locked in a struggle that follows them across the world.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-master-of-ballantrae.json"
 }
 ]
