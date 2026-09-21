@@ -414,5 +414,18 @@
  "description": "The bitter rivalry between two Scottish brothers, James and Henry Durie, grows after James joins the Jacobite cause while Henry remains loyal to the government. Their conflict follows them across Scotland, the American wilderness, and the seas, bringing betrayal, revenge, violence, and shifting fortunes. Robert Louis Stevenson blends historical adventure with psychological drama as the brothers become locked in a struggle that follows them across the world.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-master-of-ballantrae.json"
+},
+{
+ "id": "the-red-badge-of-courage",
+ "title": "The Red Badge of Courage",
+ "author": "Stephen Crane",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-red-badge-of-courage.jpg",
+ "published": 1895,
+ "language": "English",
+ "chapters": 24,
+ "description": "Henry Fleming, a young soldier in the American Civil War, dreams of proving his courage in battle but becomes overwhelmed by fear when he finally faces combat. After fleeing from the battlefield, he struggles with shame and uncertainty before seeking a chance to regain his sense of honor. Stephen Crane presents war through the psychological experience of a young soldier, exploring fear, courage, survival, and the search for personal identity.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-red-badge-of-courage.json"
 }
 ]
