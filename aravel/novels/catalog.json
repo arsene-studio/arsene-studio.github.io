@@ -427,5 +427,18 @@
  "description": "Henry Fleming, a young soldier in the American Civil War, dreams of proving his courage in battle but becomes overwhelmed by fear when he finally faces combat. After fleeing from the battlefield, he struggles with shame and uncertainty before seeking a chance to regain his sense of honor. Stephen Crane presents war through the psychological experience of a young soldier, exploring fear, courage, survival, and the search for personal identity.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-red-badge-of-courage.json"
+},
+{
+ "id": "the-wonderful-wizard-of-oz",
+ "title": "The Wonderful Wizard of Oz",
+ "author": "L. Frank Baum",
+ "category": "Adventure",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-wonderful-wizard-of-oz.jpg",
+ "published": 1900,
+ "language": "English",
+ "chapters": 24,
+ "description": "When a powerful cyclone carries Dorothy Gale from Kansas to the magical land of Oz, she begins a journey along the Yellow Brick Road in search of the Wizard who she believes can help her return home. Along the way she befriends a Scarecrow seeking a brain, a Tin Woodman longing for a heart, and a Cowardly Lion wishing for courage. L. Frank Baum creates a fantastical adventure about friendship, courage, self-discovery, and the search for home.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-wonderful-wizard-of-oz.json"
 }
 ]
