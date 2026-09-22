@@ -453,5 +453,18 @@
  "description": "Alice follows a white rabbit down a mysterious rabbit hole and finds herself in the strange and unpredictable world of Wonderland. She encounters talking animals, bizarre creatures, the Mad Hatter, the Cheshire Cat, and the temperamental Queen of Hearts while trying to find her way home. Lewis Carroll combines playful wordplay, absurd logic, and imaginative characters to create a fantasy adventure that challenges ordinary ideas about language, identity, and reason.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/alices-adventures-in-wonderland.json"
+},
+{
+ "id": "through-the-looking-glass",
+ "title": "Through the Looking-Glass",
+ "author": "Lewis Carroll",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/through-the-looking-glass.jpg",
+ "published": 1871,
+ "language": "English",
+ "chapters": 12,
+ "description": "Alice steps through a looking-glass into a strange world where everything seems to follow its own unusual rules. As she travels across a giant chessboard, she meets characters such as Tweedledum and Tweedledee, Humpty Dumpty, the White Queen, and the Red Queen while trying to become a queen herself. Lewis Carroll fills the story with wordplay, riddles, reversed logic, and dreamlike encounters that turn a child's journey into a playful exploration of language and imagination.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/through-the-looking-glass.json"
 }
 ]
