@@ -440,5 +440,18 @@
  "description": "When a powerful cyclone carries Dorothy Gale from Kansas to the magical land of Oz, she begins a journey along the Yellow Brick Road in search of the Wizard who she believes can help her return home. Along the way she befriends a Scarecrow seeking a brain, a Tin Woodman longing for a heart, and a Cowardly Lion wishing for courage. L. Frank Baum creates a fantastical adventure about friendship, courage, self-discovery, and the search for home.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-wonderful-wizard-of-oz.json"
+},
+{
+ "id": "alices-adventures-in-wonderland",
+ "title": "Alice's Adventures in Wonderland",
+ "author": "Lewis Carroll",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/alices-adventures-in-wonderland.jpg",
+ "published": 1865,
+ "language": "English",
+ "chapters": 12,
+ "description": "Alice follows a white rabbit down a mysterious rabbit hole and finds herself in the strange and unpredictable world of Wonderland. She encounters talking animals, bizarre creatures, the Mad Hatter, the Cheshire Cat, and the temperamental Queen of Hearts while trying to find her way home. Lewis Carroll combines playful wordplay, absurd logic, and imaginative characters to create a fantasy adventure that challenges ordinary ideas about language, identity, and reason.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/alices-adventures-in-wonderland.json"
 }
 ]
