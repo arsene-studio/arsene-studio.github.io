@@ -479,5 +479,18 @@
  "description": "Mole leaves his quiet home and discovers a new world along the river, where he becomes friends with Rat, Badger, and the reckless Toad. Toad's obsession with motorcars leads him into a series of dangerous and comic adventures, while his friends struggle to help him regain control of his life and home. Kenneth Grahame combines talking animals, pastoral landscapes, friendship, humor, and adventure in a nostalgic fantasy about companionship, home, and the pleasures of the natural world.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-wind-in-the-willows.json"
+},
+{
+ "id": "the-phoenix-and-the-carpet",
+ "title": "The Phoenix and the Carpet",
+ "author": "E. Nesbit",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-phoenix-and-the-carpet.jpg",
+ "published": 1904,
+ "language": "English",
+ "chapters": 12,
+ "description": "Four children discover a magical carpet containing an egg that hatches into a talking Phoenix, whose powers allow them to travel through extraordinary adventures. Their attempts to use the carpet's magic lead them into unexpected situations involving distant places, magical objects, and the consequences of making wishes. E. Nesbit combines humor, everyday childhood experiences, and imaginative magic to create a playful fantasy in which ordinary children encounter an extraordinary world.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-phoenix-and-the-carpet.json"
 }
 ]
