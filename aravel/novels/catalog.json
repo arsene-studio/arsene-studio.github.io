@@ -466,5 +466,18 @@
  "description": "Alice steps through a looking-glass into a strange world where everything seems to follow its own unusual rules. As she travels across a giant chessboard, she meets characters such as Tweedledum and Tweedledee, Humpty Dumpty, the White Queen, and the Red Queen while trying to become a queen herself. Lewis Carroll fills the story with wordplay, riddles, reversed logic, and dreamlike encounters that turn a child's journey into a playful exploration of language and imagination.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/through-the-looking-glass.json"
+},
+{
+ "id": "the-wind-in-the-willows",
+ "title": "The Wind in the Willows",
+ "author": "Kenneth Grahame",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-wind-in-the-willows.jpg",
+ "published": 1908,
+ "language": "English",
+ "chapters": 12,
+ "description": "Mole leaves his quiet home and discovers a new world along the river, where he becomes friends with Rat, Badger, and the reckless Toad. Toad's obsession with motorcars leads him into a series of dangerous and comic adventures, while his friends struggle to help him regain control of his life and home. Kenneth Grahame combines talking animals, pastoral landscapes, friendship, humor, and adventure in a nostalgic fantasy about companionship, home, and the pleasures of the natural world.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-wind-in-the-willows.json"
 }
 ]
