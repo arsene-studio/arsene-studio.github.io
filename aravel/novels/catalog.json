@@ -505,5 +505,18 @@
  "description": "Three children exploring the countryside discover what appears to be an enchanted castle and meet a mysterious girl who claims to be a princess. A magical ring then turns their games and wishes into increasingly complicated adventures, causing transformations that are far more troublesome than they expected. E. Nesbit blends childhood imagination, humor, magic, and adventure while exploring the difference between pretending that something is true and dealing with the consequences when magic becomes real.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-enchanted-castle.json"
+},
+{
+ "id": "the-magic-city",
+ "title": "The Magic City",
+ "author": "E. Nesbit",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-magic-city.jpg",
+ "published": 1910,
+ "language": "English",
+ "chapters": 12,
+ "description": "Philip, a lonely boy fascinated by building models, creates an elaborate city from books, furniture, and household objects. One night the city becomes real, drawing him into a strange world where buildings, inhabitants, and adventures emerge from his imagination. E. Nesbit transforms the familiar world of childhood play into a magical landscape, combining fantasy, adventure, humor, and themes of loneliness, creativity, friendship, and growing up.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-magic-city.json"
 }
 ]
