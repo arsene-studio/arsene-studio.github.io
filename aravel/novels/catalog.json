@@ -518,5 +518,18 @@
  "description": "Philip, a lonely boy fascinated by building models, creates an elaborate city from books, furniture, and household objects. One night the city becomes real, drawing him into a strange world where buildings, inhabitants, and adventures emerge from his imagination. E. Nesbit transforms the familiar world of childhood play into a magical landscape, combining fantasy, adventure, humor, and themes of loneliness, creativity, friendship, and growing up.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-magic-city.json"
+},
+{
+ "id": "the-story-of-the-amulet",
+ "title": "The Story of the Amulet",
+ "author": "E. Nesbit",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-story-of-the-amulet.jpg",
+ "published": 1906,
+ "language": "English",
+ "chapters": 14,
+ "description": "The four children from E. Nesbit's earlier magical adventures discover half of an ancient amulet and search for the missing piece so they can restore its power. Their quest sends them through different periods of history, where they encounter ancient civilizations, famous historical figures, and extraordinary dangers. E. Nesbit combines historical imagination with magic and childhood adventure, using the children's journey to explore friendship, curiosity, courage, and the relationship between the past and the present.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-story-of-the-amulet.json"
 }
 ]
