@@ -492,5 +492,18 @@
  "description": "Four children discover a magical carpet containing an egg that hatches into a talking Phoenix, whose powers allow them to travel through extraordinary adventures. Their attempts to use the carpet's magic lead them into unexpected situations involving distant places, magical objects, and the consequences of making wishes. E. Nesbit combines humor, everyday childhood experiences, and imaginative magic to create a playful fantasy in which ordinary children encounter an extraordinary world.",
  "source": "remote",
  "data": "https://arsene-studio.github.io/aravel/novels/the-phoenix-and-the-carpet.json"
+},
+{
+ "id": "the-enchanted-castle",
+ "title": "The Enchanted Castle",
+ "author": "E. Nesbit",
+ "category": "Fantasy",
+ "cover": "https://arsene-studio.github.io/aravel/covers/the-enchanted-castle.jpg",
+ "published": 1907,
+ "language": "English",
+ "chapters": 12,
+ "description": "Three children exploring the countryside discover what appears to be an enchanted castle and meet a mysterious girl who claims to be a princess. A magical ring then turns their games and wishes into increasingly complicated adventures, causing transformations that are far more troublesome than they expected. E. Nesbit blends childhood imagination, humor, magic, and adventure while exploring the difference between pretending that something is true and dealing with the consequences when magic becomes real.",
+ "source": "remote",
+ "data": "https://arsene-studio.github.io/aravel/novels/the-enchanted-castle.json"
 }
 ]
