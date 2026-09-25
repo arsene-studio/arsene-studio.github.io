@@ -394,7 +394,7 @@
       "originalLanguage": "French",
       "isTranslation": true,
       "translatorDeathYear": null,
-      "specialCase": "translator_unverified"
+      "specialCase": "translation"
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-princess-of-cleves.json"
