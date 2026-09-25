@@ -394,7 +394,7 @@
       "originalLanguage": "French",
       "isTranslation": true,
       "translatorDeathYear": null,
-      "specialCase": "translation"
+      "specialCase": null
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-princess-of-cleves.json"
@@ -414,7 +414,7 @@
   "originalLanguage": "German",
   "isTranslation": true,
   "translatorDeathYear": 1888,
-  "specialCase": "translation"
+  "specialCase": null
 },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-sorrows-of-young-werther.json"
