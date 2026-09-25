@@ -410,12 +410,12 @@
     "chapters": 2,
     "description": "Through a series of letters, the young Werther describes his intense emotions and growing love for Charlotte, a woman who is already engaged to another man. Unable to reconcile his passionate feelings with the reality of their circumstances, Werther becomes increasingly consumed by longing, loneliness, and despair. The novel explores unrequited love, emotional obsession, friendship, and the conflict between passion and reason.",
     "copyright": {
-      "authorDeathYear": 1832,
-      "originalLanguage": "German",
-      "isTranslation": true,
-      "translatorDeathYear": 1888,
-      "specialCase": null
-    },
+  "authorDeathYear": 1832,
+  "originalLanguage": "German",
+  "isTranslation": true,
+  "translatorDeathYear": 1888,
+  "specialCase": "translation"
+},
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-sorrows-of-young-werther.json"
   },
@@ -550,12 +550,12 @@
     "chapters": 12,
     "description": "Four desperate men aboard a ship in the South Pacific become involved in a dangerous scheme after discovering an opportunity to escape their troubled lives. Their journey takes them through deception, greed, disease, and moral conflict as they pursue fortune on a remote island. Robert Louis Stevenson and Lloyd Osbourne create a dark maritime adventure that examines survival, corruption, and the consequences of desperation.",
     "copyright": {
-      "authorDeathYear": 1947,
-      "originalLanguage": "English",
-      "isTranslation": false,
-      "translatorDeathYear": null,
-      "specialCase": "joint_authors"
-    },
+  "authorDeathYear": 1947,
+  "originalLanguage": "English",
+  "isTranslation": false,
+  "translatorDeathYear": null,
+  "specialCase": null
+},
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-ebb-tide.json"
   },
@@ -570,12 +570,12 @@
     "chapters": 16,
     "description": "A valuable inheritance, a mistaken identity, and a body accidentally placed in the wrong box set off a chaotic chain of events involving two brothers and a group of unlikely characters. As the characters attempt to protect themselves and claim their fortunes, the story becomes a series of comic pursuits, misunderstandings, and unexpected adventures. Robert Louis Stevenson and Lloyd Osbourne combine adventure, black comedy, and farce in this fast-moving tale.",
     "copyright": {
-      "authorDeathYear": 1947,
-      "originalLanguage": "English",
-      "isTranslation": false,
-      "translatorDeathYear": null,
-      "specialCase": "joint_authors"
-    },
+  "authorDeathYear": 1947,
+  "originalLanguage": "English",
+  "isTranslation": false,
+  "translatorDeathYear": null,
+  "specialCase": null
+},
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-wrong-box.json"
   },
