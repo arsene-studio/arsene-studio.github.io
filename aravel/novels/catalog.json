@@ -858,5 +858,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/persuasion.json"
+  },
+  {
+    "id": "the-scarlet-letter",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-scarlet-letter.jpg",
+    "published": 1850,
+    "language": "English",
+    "chapters": 24,
+    "description": "Hester Prynne is publicly punished and forced to wear a scarlet letter after giving birth to a child outside marriage in the strict Puritan community of seventeenth-century Massachusetts. Refusing to reveal the identity of the child's father, Hester faces years of shame while the hidden guilt of others gradually emerges. Nathaniel Hawthorne explores sin, guilt, punishment, hypocrisy, identity, and redemption against the atmosphere of Puritan New England.",
+    "copyright": {
+      "authorDeathYear": 1864,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-scarlet-letter.json"
   }
 ]
