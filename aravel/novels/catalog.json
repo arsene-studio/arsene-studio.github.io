@@ -838,5 +838,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-little-lame-prince.json"
+  },
+  {
+    "id": "persuasion",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/persuasion.jpg",
+    "published": 1817,
+    "language": "English",
+    "chapters": 24,
+    "description": "Anne Elliot is persuaded by her family to reject Captain Frederick Wentworth, the man she loves, because of his uncertain prospects. Years later, they meet again when Wentworth has become a successful naval officer, forcing Anne to confront the feelings she never truly abandoned. Jane Austen explores love, regret, social expectations, family pressure, and the possibility of a second chance in this mature and quietly emotional novel.",
+    "copyright": {
+      "authorDeathYear": 1817,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/persuasion.json"
   }
 ]
