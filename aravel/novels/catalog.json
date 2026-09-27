@@ -818,5 +818,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-story-of-the-amulet.json"
+  },
+  {
+    "id": "the-little-lame-prince",
+    "title": "The Little Lame Prince and His Travelling Cloak",
+    "author": "Dinah Maria Mulock Craik",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-little-lame-prince.jpg",
+    "published": 1875,
+    "language": "English",
+    "chapters": 10,
+    "description": "Prince Dolor is confined to a lonely tower after losing his parents and being separated from the life he should have known. His fortunes change when a magical travelling cloak allows him to fly beyond the tower and observe the wider world, leading him to encounters with people, kingdoms, and difficult moral choices. Dinah Maria Mulock Craik combines fairy-tale adventure with themes of compassion, responsibility, suffering, and personal growth in a story about a young prince learning to understand the world beyond his own confinement.",
+    "copyright": {
+      "authorDeathYear": 1887,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-little-lame-prince.json"
   }
 ]
