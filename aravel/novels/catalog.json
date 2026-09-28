@@ -898,5 +898,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/silas-marner.json"
+  },
+  {
+    "id": "ethan-frome",
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/ethan-frome.jpg",
+    "published": 1911,
+    "language": "English",
+    "chapters": 10,
+    "description": "Ethan Frome lives a bleak and isolated life on a farm in the harsh New England winter with his sickly and demanding wife, Zeena. His life changes when Zeena's young cousin Mattie Silver comes to live with them, and Ethan develops a deep love for her that conflicts with his responsibilities and circumstances. Edith Wharton creates a tragic portrait of desire, poverty, loneliness, duty, and the limitations imposed by social and economic circumstances.",
+    "copyright": {
+      "authorDeathYear": 1937,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/ethan-frome.json"
   }
 ]
