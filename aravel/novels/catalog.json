@@ -878,5 +878,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-scarlet-letter.json"
+ },
+ {
+    "id": "silas-marner",
+    "title": "Silas Marner",
+    "author": "George Eliot",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/silas-marner.jpg",
+    "published": 1861,
+    "language": "English",
+    "chapters": 21,
+    "description": "Silas Marner, a lonely weaver living in the village of Raveloe, loses his faith in other people after being betrayed by a close friend and wrongly accused of theft. He withdraws from society and becomes obsessed with the gold he has accumulated until the arrival of an orphaned child changes his life. George Eliot explores isolation, community, betrayal, love, redemption, and the transformative power of human connection.",
+    "copyright": {
+      "authorDeathYear": 1880,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/silas-marner.json"
   }
 ]
