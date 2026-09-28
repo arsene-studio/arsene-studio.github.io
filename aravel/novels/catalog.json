@@ -918,5 +918,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/ethan-frome.json"
+  },
+  {
+    "id": "the-house-of-the-seven-gables",
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-house-of-the-seven-gables.jpg",
+    "published": 1851,
+    "language": "English",
+    "chapters": 21,
+    "description": "The Pyncheon family lives beneath the shadow of an ancestral curse connected to an old house and the questionable actions of their ancestor, Colonel Pyncheon. As Hepzibah Pyncheon struggles to maintain the decaying family home, her brother Clifford returns after years of imprisonment, while the arrival of the cheerful young Phoebe brings new hope. Nathaniel Hawthorne combines family drama, historical guilt, romance, and Gothic atmosphere to examine the lasting consequences of greed, injustice, and inherited wrongdoing.",
+    "copyright": {
+      "authorDeathYear": 1864,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-house-of-the-seven-gables.json"
   }
 ]
