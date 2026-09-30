@@ -938,5 +938,45 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-house-of-the-seven-gables.json"
+  },
+  {
+    "id": "agnes-grey",
+    "title": "Agnes Grey",
+    "author": "Anne Brontë",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/agnes-grey.jpg",
+    "published": 1847,
+    "language": "English",
+    "chapters": 25,
+    "description": "Agnes Grey becomes a governess to help support her financially struggling family and discovers that working for wealthy households is far more difficult than she imagined. She faces spoiled children, indifferent parents, and the restrictions of Victorian social expectations while gradually developing feelings for the kindly curate Edward Weston. Anne Brontë draws on the realities of governess life to explore independence, class, morality, love, and the dignity of ordinary work.",
+    "copyright": {
+      "authorDeathYear": 1849,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/agnes-grey.json"
+  },
+  {
+    "id": "the-gambler",
+    "title": "The Gambler",
+    "author": "Fyodor Dostoyevsky",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-gambler.jpg",
+    "published": 1866,
+    "language": "English",
+    "chapters": 17,
+    "description": "Alexey Ivanovich, a young tutor employed by a financially troubled Russian family, becomes increasingly consumed by roulette while staying at a German gambling resort. His fascination with the game becomes intertwined with his complicated feelings for Polina and the family's desperate hopes for a fortune. Fyodor Dostoyevsky explores obsession, greed, humiliation, love, impulsiveness, and the psychological grip of gambling through Alexey's increasingly unstable experiences.",
+    "copyright": {
+      "authorDeathYear": 1881,
+      "originalLanguage": "Russian",
+      "isTranslation": true,
+      "translatorDeathYear": 1942,
+      "specialCase": "English translation by C. J. Hogarth"
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-gambler.json"
   }
 ]
