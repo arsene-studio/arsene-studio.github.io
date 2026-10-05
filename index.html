@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta
+    name="description"
+    content="Arsene Studio creates thoughtful digital experiences and applications."
+  >
+
+  <meta
+    name="theme-color"
+    content="#003262"
+  >
+
+  <title>Arsene Studio</title>
+
+  <style>
+    :root {
+      --navy: #003262;
+      --navy-dark: #00264d;
+      --cream: #fff6d0;
+      --cream-light: #fffaf0;
+      --text: #24303a;
+      --muted: #68727c;
+      --white: #ffffff;
+      --border: #e8e2d3;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+      background: var(--cream-light);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* Header */
+
+    header {
+      background: var(--navy);
+      color: var(--white);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    .nav {
+      width: min(1100px, calc(100% - 40px));
+      margin: 0 auto;
+      height: 76px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 0.4px;
+    }
+
+    .brand span {
+      opacity: 0.75;
+      font-weight: 400;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 14px;
+    }
+
+    .nav-links a {
+      opacity: 0.88;
+      transition: opacity 0.2s ease;
+    }
+
+    .nav-links a:hover {
+      opacity: 1;
+    }
+
+    /* Hero */
+
+    .hero {
+      background: var(--navy);
+      color: var(--white);
+
+      padding: 105px 20px 115px;
+      text-align: center;
+    }
+
+    .hero-inner {
+      width: min(850px, 100%);
+      margin: 0 auto;
+    }
+
+    .eyebrow {
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+
+      margin-bottom: 22px;
+      opacity: 0.72;
+    }
+
+    .hero h1 {
+      font-size: clamp(42px, 7vw, 72px);
+      line-height: 1.08;
+      font-weight: 700;
+      margin-bottom: 24px;
+    }
+
+    .hero p {
+      max-width: 650px;
+      margin: 0 auto;
+
+      font-size: clamp(18px, 2.5vw, 22px);
+      line-height: 1.7;
+
+      color: rgba(255, 255, 255, 0.86);
+    }
+
+    /* Main */
+
+    main {
+      width: min(1000px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    section {
+      padding: 90px 0;
+    }
+
+    .section-label {
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+
+      color: var(--navy);
+      margin-bottom: 14px;
+    }
+
+    .section-title {
+      font-size: clamp(30px, 5vw, 44px);
+      line-height: 1.2;
+      color: var(--navy);
+
+      margin-bottom: 18px;
+    }
+
+    .section-description {
+      max-width: 680px;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    /* Projects */
+
+    .projects {
+      margin-top: 42px;
+    }
+
+    .project-card {
+      background: var(--white);
+
+      border: 1px solid var(--border);
+      border-radius: 18px;
+
+      padding: 38px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 40px;
+
+      box-shadow:
+        0 10px 30px rgba(0, 50, 98, 0.06);
+    }
+
+    .project-content {
+      flex: 1;
+    }
+
+    .project-name {
+      color: var(--navy);
+      font-size: 32px;
+      line-height: 1.2;
+      margin-bottom: 7px;
+    }
+
+    .project-type {
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+
+      color: var(--muted);
+      margin-bottom: 18px;
+    }
+
+    .project-description {
+      color: var(--muted);
+      font-size: 16px;
+      max-width: 600px;
+    }
+
+    .project-button {
+      flex-shrink: 0;
+
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+
+      min-width: 145px;
+      padding: 13px 22px;
+
+      border-radius: 8px;
+
+      background: var(--navy);
+      color: var(--white);
+
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 14px;
+      font-weight: 700;
+
+      transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+    }
+
+    .project-button:hover {
+      background: var(--navy-dark);
+      transform: translateY(-1px);
+    }
+
+    /* About */
+
+    .about {
+      border-top: 1px solid var(--border);
+    }
+
+    .about-content {
+      display: grid;
+      grid-template-columns: 0.8fr 1.2fr;
+      gap: 70px;
+      align-items: start;
+    }
+
+    .about-text {
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .about-text p + p {
+      margin-top: 18px;
+    }
+
+    /* Footer */
+
+    footer {
+      background: var(--navy);
+      color: var(--white);
+
+      padding: 42px 20px;
+    }
+
+    .footer-inner {
+      width: min(1000px, 100%);
+      margin: 0 auto;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 25px;
+    }
+
+    .footer-brand {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .footer-copy {
+      margin-top: 5px;
+
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 12px;
+      opacity: 0.65;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+
+      font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+      font-size: 13px;
+    }
+
+    .footer-links a {
+      opacity: 0.8;
+    }
+
+    .footer-links a:hover {
+      opacity: 1;
+    }
+
+    /* Responsive */
+
+    @media (max-width: 700px) {
+
+      .nav {
+        height: 68px;
+      }
+
+      .brand {
+        font-size: 19px;
+      }
+
+      .nav-links {
+        gap: 16px;
+        font-size: 12px;
+      }
+
+      .hero {
+        padding: 82px 20px 90px;
+      }
+
+      section {
+        padding: 70px 0;
+      }
+
+      .project-card {
+        padding: 28px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 28px;
+      }
+
+      .project-button {
+        width: 100%;
+      }
+
+      .about-content {
+        grid-template-columns: 1fr;
+        gap: 25px;
+      }
+
+      .footer-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .footer-links {
+        gap: 18px;
+      }
+    }
+
+    @media (max-width: 420px) {
+
+      .nav-links a:first-child {
+        display: none;
+      }
+
+      .hero h1 {
+        font-size: 42px;
+      }
+
+      .hero p {
+        font-size: 17px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <nav class="nav">
+
+      <a href="/" class="brand">
+        Arsene <span>Studio</span>
+      </a>
+
+      <div class="nav-links">
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+      </div>
+
+    </nav>
+  </header>
+
+
+  <section class="hero">
+
+    <div class="hero-inner">
+
+      <div class="eyebrow">
+        Arsene Studio
+      </div>
+
+      <h1>
+        Thoughtful digital experiences.
+      </h1>
+
+      <p>
+        Arsene Studio creates simple, purposeful applications
+        designed to make digital experiences more enjoyable,
+        useful, and accessible.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <main>
+
+    <section id="projects">
+
+      <div class="section-label">
+        Our Project
+      </div>
+
+      <h2 class="section-title">
+        Featured Application
+      </h2>
+
+      <p class="section-description">
+        Explore our current application, created for readers
+        who enjoy classic literature and timeless stories.
+      </p>
+
+
+      <div class="projects">
+
+        <article class="project-card">
+
+          <div class="project-content">
+
+            <h3 class="project-name">
+              Aravel
+            </h3>
+
+            <div class="project-type">
+              Classic Books Library
+            </div>
+
+            <p class="project-description">
+              Aravel is a free reading application focused on
+              classic literature and public-domain books.
+              Discover timeless stories, build your personal
+              library, and enjoy reading wherever you are.
+            </p>
+
+          </div>
+
+          <a
+            href="/aravel/"
+            class="project-button"
+          >
+            Explore Aravel
+          </a>
+
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <section id="about" class="about">
+
+      <div class="about-content">
+
+        <div>
+
+          <div class="section-label">
+            About
+          </div>
+
+          <h2 class="section-title">
+            Arsene Studio
+          </h2>
+
+        </div>
+
+        <div class="about-text">
+
+          <p>
+            Arsene Studio is an independent software studio
+            focused on creating thoughtful digital products
+            with a clean and accessible experience.
+          </p>
+
+          <p>
+            We believe good software does not need to be
+            complicated. Our goal is to create products that
+            are useful, enjoyable, and built with care.
+          </p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <footer>
+
+    <div class="footer-inner">
+
+      <div>
+
+        <div class="footer-brand">
+          Arsene Studio
+        </div>
+
+        <div class="footer-copy">
+          © 2026 Arsene Studio. All rights reserved.
+        </div>
+
+      </div>
+
+      <div class="footer-links">
+
+        <a href="/privacy/aravel/">
+          Privacy Policy
+        </a>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+</body>
+</html>
