@@ -998,5 +998,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-railway-children.json"
+  },
+  {
+    "id": "the-story-of-the-treasure-seekers",
+    "title": "The Story of the Treasure Seekers",
+    "author": "E. Nesbit",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-story-of-the-treasure-seekers.jpg",
+    "published": 1899,
+    "language": "English",
+    "chapters": 16,
+    "description": "The six Bastable children decide that they must restore their family's fortunes after their father suffers financial difficulties. Determined to become heroes and treasure seekers, they repeatedly attempt schemes inspired by adventure stories and their own imaginations, often producing comic and unexpected results. E. Nesbit tells the story through the children's perspective, combining humor, innocence, family affection, and the imaginative determination of children who believe that almost any problem can be solved through adventure.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-story-of-the-treasure-seekers.json"
   }
 ]
