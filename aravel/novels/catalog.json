@@ -978,5 +978,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-gambler.json"
+  },
+  {
+    "id": "the-railway-children",
+    "title": "The Railway Children",
+    "author": "E. Nesbit",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-railway-children.jpg",
+    "published": 1906,
+    "language": "English",
+    "chapters": 14,
+    "description": "Roberta, Peter, and Phyllis move with their mother to a modest home in the countryside after their father suddenly disappears. Living near a railway line, the children become fascinated by the trains and gradually form friendships with railway workers and other people in the community. E. Nesbit combines childhood adventure, family loyalty, mystery, kindness, and resilience as the children try to help others while hoping to discover what happened to their father.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-railway-children.json"
   }
 ]
