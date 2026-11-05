@@ -1038,5 +1038,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/the-king-in-yellow.json"
+  },
+  {
+    "id": "ghost-stories-of-an-antiquary",
+    "title": "Ghost Stories of an Antiquary",
+    "author": "M. R. James",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/ghost-stories-of-an-antiquary.jpg",
+    "published": 1904,
+    "language": "English",
+    "chapters": 8,
+    "description": "A collection of eight supernatural tales featuring haunted objects, ancient manuscripts, mysterious figures, and encounters with terrifying forces from the past. Stories such as Lost Hearts, The Mezzotint, Count Magnus, and Oh, Whistle, and I'll Come to You, My Lad reveal how ordinary curiosity can lead to extraordinary danger. M. R. James creates suspense through scholarly discoveries, unsettling details, and an atmosphere of quiet but deeply disturbing supernatural horror.",
+    "copyright": {
+      "authorDeathYear": 1936,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/ghost-stories-of-an-antiquary.json"
   }
 ]
