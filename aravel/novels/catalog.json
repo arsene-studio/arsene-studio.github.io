@@ -1058,5 +1058,25 @@
     },
     "source": "remote",
     "data": "https://arsene-studio.github.io/aravel/novels/ghost-stories-of-an-antiquary.json"
+  },
+  {
+    "id": "the-willows",
+    "title": "The Willows",
+    "author": "Algernon Blackwood",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-willows.jpg",
+    "published": 1907,
+    "language": "English",
+    "chapters": 4,
+    "description": "Two travelers journey by canoe along the Danube River and become stranded on a remote island surrounded by dense willow trees. As strange disturbances begin to affect their camp, they sense an invisible presence that seems to exist beyond the boundaries of the human world. Algernon Blackwood combines isolation, psychological tension, nature, and cosmic dread in an atmospheric tale about humanity's vulnerability before mysterious supernatural forces.",
+    "copyright": {
+      "authorDeathYear": 1951,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-willows.json"
   }
 ]
