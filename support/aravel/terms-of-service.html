@@ -2,88 +2,92 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Terms of Service for Aravel: Classic Books Library, developed by Arsene Studio.">
-  <meta name="robots" content="index, follow">
+  <meta charset="UTF-8" />
 
-  <title>Terms of Service | Aravel</title>
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Terms of Service — Aravel</title>
+
+  <meta
+    name="description"
+    content="Terms of Service for Aravel: Classic Books Library, developed by Arsene Studio."
+  />
 
   <style>
-    :root {
-      --navy: #003262;
-      --text: #333333;
-      --muted: #666666;
-      --background: #f7f8fa;
-      --border: #e5e7eb;
-    }
-
     * {
       box-sizing: border-box;
     }
 
     body {
       margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: var(--background);
-      color: var(--text);
-      line-height: 1.75;
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+
+      background: #f7f8fa;
+      color: #222;
+      line-height: 1.7;
+    }
+
+    .container {
+      width: min(900px, calc(100% - 40px));
+      margin: 0 auto;
     }
 
     header {
-      background: var(--navy);
+      background: #003262;
       color: white;
-      padding: 42px 20px;
-      text-align: center;
+      padding: 60px 0 50px;
     }
 
     header h1 {
-      margin: 0;
-      font-family: Georgia, serif;
-      font-size: 30px;
-      font-weight: normal;
-      letter-spacing: 0.5px;
+      margin: 0 0 10px;
+      font-size: 38px;
+      line-height: 1.2;
     }
 
     header p {
-      margin: 10px 0 0;
-      font-size: 14px;
-      opacity: 0.85;
+      margin: 0;
+      font-size: 18px;
+      opacity: 0.92;
     }
 
     main {
-      max-width: 850px;
-      margin: 40px auto;
-      padding: 0 20px;
+      padding: 45px 0 60px;
     }
 
-    .content {
+    section {
       background: white;
-      padding: 40px;
-      border: 1px solid var(--border);
-      border-radius: 10px;
-    }
+      border-radius: 14px;
+      padding: 28px 30px;
+      margin-bottom: 22px;
 
-    .effective-date {
-      color: var(--muted);
-      font-size: 14px;
-      margin-bottom: 28px;
+      box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.05);
     }
 
     h2 {
-      color: var(--navy);
-      font-family: Georgia, serif;
-      font-size: 21px;
-      margin-top: 32px;
+      margin-top: 0;
       margin-bottom: 12px;
+      color: #003262;
+      font-size: 23px;
     }
 
     p {
-      margin: 12px 0;
+      margin-top: 0;
     }
 
     ul {
-      padding-left: 24px;
+      padding-left: 22px;
+      margin-bottom: 0;
     }
 
     li {
@@ -91,7 +95,8 @@
     }
 
     a {
-      color: var(--navy);
+      color: #003262;
+      font-weight: 600;
       text-decoration: none;
     }
 
@@ -99,11 +104,37 @@
       text-decoration: underline;
     }
 
+    .effective-date {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
+    .contact {
+      text-align: center;
+    }
+
+    .contact a {
+      display: inline-block;
+      margin-top: 8px;
+      padding: 12px 20px;
+
+      background: #003262;
+      color: white;
+
+      border-radius: 8px;
+    }
+
+    .contact a:hover {
+      text-decoration: none;
+      opacity: 0.9;
+    }
+
     footer {
       text-align: center;
-      padding: 25px 20px;
-      color: var(--muted);
-      font-size: 13px;
+      padding: 30px 20px;
+      color: #666;
+      font-size: 14px;
     }
 
     footer a {
@@ -112,24 +143,23 @@
 
     @media (max-width: 600px) {
       header {
-        padding: 32px 18px;
+        padding: 45px 0 40px;
       }
 
       header h1 {
-        font-size: 25px;
+        font-size: 30px;
       }
 
-      main {
-        margin: 20px auto;
-        padding: 0 12px;
+      header p {
+        font-size: 16px;
       }
 
-      .content {
-        padding: 24px 20px;
+      section {
+        padding: 23px 20px;
       }
 
       h2 {
-        font-size: 19px;
+        font-size: 21px;
       }
     }
   </style>
@@ -137,296 +167,491 @@
 
 <body>
 
+  <!-- ========================================= -->
+  <!-- HEADER -->
+  <!-- ========================================= -->
+
   <header>
-    <h1>Terms of Service</h1>
-    <p>Aravel: Classic Books Library</p>
+    <div class="container">
+
+      <h1>
+        Aravel: Classic Books Library
+      </h1>
+
+      <p>
+        Terms of Service
+      </p>
+
+    </div>
   </header>
 
+
+  <!-- ========================================= -->
+  <!-- MAIN CONTENT -->
+  <!-- ========================================= -->
+
   <main>
-    <article class="content">
 
-      <p class="effective-date">
-        <strong>Effective Date:</strong> November 5, 2026
-      </p>
+    <div class="container">
 
-      <p>
-        Welcome to Aravel: Classic Books Library, an application
-        developed and operated by Arsene Studio ("we", "us",
-        or "our").
-      </p>
 
-      <p>
-        These Terms of Service ("Terms") govern your access to
-        and use of the Aravel mobile application ("App").
-        By downloading, accessing, or using Aravel, you agree
-        to these Terms. If you do not agree, please discontinue
-        using the App.
-      </p>
+      <!-- ===================================== -->
+      <!-- INTRODUCTION -->
+      <!-- ===================================== -->
 
-      <h2>1. About Aravel</h2>
+      <section>
 
-      <p>
-        Aravel is a digital library application dedicated to
-        providing access to classic literary works in the
-        public domain.
-      </p>
+        <p class="effective-date">
+          <strong>Effective Date:</strong> November 5, 2026
+        </p>
 
-      <p>The App may provide features including:</p>
+        <h2>
+          Introduction
+        </h2>
 
-      <ul>
-        <li>Access to classic books and literary collections.</li>
-        <li>Reading and chapter navigation.</li>
-        <li>Bookmarks and reading progress tracking.</li>
-        <li>Favorites and personal reading preferences.</li>
-        <li>Offline reading functionality for supported content.</li>
-        <li>Customizable reading settings, including fonts and themes.</li>
-        <li>Other features that may be introduced through future updates.</li>
-      </ul>
+        <p>
+          Welcome to Aravel: Classic Books Library, an application
+          developed and operated by Arsene Studio ("we", "us",
+          or "our").
+        </p>
 
-      <p>
-        Features may change, be updated, or become unavailable
-        as the App evolves.
-      </p>
+        <p>
+          These Terms of Service ("Terms") govern your access to
+          and use of the Aravel mobile application ("App").
+          By downloading, accessing, or using Aravel, you agree
+          to these Terms. If you do not agree, please discontinue
+          using the App.
+        </p>
 
-      <h2>2. Intellectual Property and Public Domain Content</h2>
+      </section>
 
-      <p>
-        Aravel provides access to literary works believed to be
-        in the public domain in the relevant jurisdictions.
-        We make reasonable efforts to verify the public-domain
-        status of the books included in our collection.
-      </p>
 
-      <p>However:</p>
+      <!-- ===================================== -->
+      <!-- ABOUT ARAVEL -->
+      <!-- ===================================== -->
 
-      <ul>
-        <li>Copyright and public-domain rules differ between countries.</li>
-        <li>A work that is in the public domain in one country may still be protected by copyright in another.</li>
-        <li>The availability of certain books may vary depending on the user's location.</li>
-        <li>Book metadata, descriptions, and other editorial materials may be created or maintained by Arsene Studio.</li>
-      </ul>
+      <section>
 
-      <p>
-        Public-domain literary texts may generally be used in
-        accordance with applicable laws. The Aravel application,
-        its original design, branding, software, and original
-        editorial materials remain protected by applicable
-        intellectual property laws.
-      </p>
+        <h2>
+          1. About Aravel
+        </h2>
 
-      <p>
-        Nothing in these Terms transfers ownership of our
-        original intellectual property to users.
-      </p>
+        <p>
+          Aravel is a digital library application dedicated to
+          providing access to classic literary works in the
+          public domain.
+        </p>
 
-      <h2>3. Acceptable Use</h2>
+        <p>
+          The App may provide features including:
+        </p>
 
-      <p>
-        You agree to use Aravel for lawful personal and
-        non-commercial reading purposes.
-      </p>
+        <ul>
+          <li>Access to classic books and literary collections.</li>
+          <li>Reading and chapter navigation.</li>
+          <li>Bookmarks and reading progress tracking.</li>
+          <li>Favorites and personal reading preferences.</li>
+          <li>Offline reading functionality for supported content.</li>
+          <li>Customizable reading settings, including fonts and themes.</li>
+          <li>Other features that may be introduced through future updates.</li>
+        </ul>
 
-      <p>You must not:</p>
+        <p>
+          Features may change, be updated, or become unavailable
+          as the App evolves.
+        </p>
 
-      <ul>
-        <li>Use the App for unlawful activities.</li>
-        <li>Attempt to interfere with or compromise the App's security.</li>
-        <li>Reverse engineer, modify, or redistribute the App except where permitted by applicable law.</li>
-        <li>Exploit the App or its services in a manner that could damage or disrupt their operation.</li>
-        <li>Misrepresent ownership of original content, branding, or materials belonging to Arsene Studio.</li>
-      </ul>
+      </section>
 
-      <p>
-        You remain responsible for ensuring that your use of
-        literary content complies with the copyright laws
-        applicable in your jurisdiction.
-      </p>
 
-      <h2>4. Advertisements and Third-Party Services</h2>
+      <!-- ===================================== -->
+      <!-- INTELLECTUAL PROPERTY -->
+      <!-- ===================================== -->
 
-      <p>
-        Aravel may display advertisements provided by third-party
-        advertising partners, including Google AdMob.
-      </p>
+      <section>
 
-      <p>
-        These advertisements help support the development,
-        maintenance, and continued availability of the App.
-      </p>
+        <h2>
+          2. Intellectual Property and Public Domain Content
+        </h2>
 
-      <ul>
-        <li>Advertisements may be personalized or non-personalized depending on applicable consent requirements and advertising settings.</li>
-        <li>Third-party advertisements may contain links to external websites or services.</li>
-        <li>We do not own or control third-party products, services, or websites advertised through the App.</li>
-        <li>Interactions, purchases, or transactions with third-party advertisers are subject to their respective terms and policies.</li>
-      </ul>
+        <p>
+          Aravel provides access to literary works believed to be
+          in the public domain in the relevant jurisdictions.
+          We make reasonable efforts to verify the public-domain
+          status of the books included in our collection.
+        </p>
 
-      <p>
-        We are not responsible for the content, availability,
-        or practices of third-party services, to the extent
-        permitted by applicable law.
-      </p>
+        <p>
+          However:
+        </p>
 
-      <h2>5. Privacy</h2>
+        <ul>
+          <li>Copyright and public-domain rules differ between countries.</li>
+          <li>A work that is in the public domain in one country may still be protected by copyright in another.</li>
+          <li>The availability of certain books may vary depending on the user's location.</li>
+          <li>Book metadata, descriptions, and other editorial materials may be created or maintained by Arsene Studio.</li>
+        </ul>
 
-      <p>
-        Your privacy is important to us.
-      </p>
+        <p>
+          Public-domain literary texts may generally be used in
+          accordance with applicable laws. The Aravel application,
+          its original design, branding, software, and original
+          editorial materials remain protected by applicable
+          intellectual property laws.
+        </p>
 
-      <p>
-        The collection, use, processing, and protection of
-        personal information are described in our Privacy Policy.
-      </p>
+        <p>
+          Nothing in these Terms transfers ownership of our
+          original intellectual property to users.
+        </p>
 
-      <p>
-        The App may use third-party services, including Google
-        AdMob, which may process certain information in accordance
-        with their respective privacy policies and applicable
-        data protection laws.
-      </p>
+      </section>
 
-      <p>
-        Please review our
-        <a href="privacy-policy.html">Privacy Policy</a>
-        for more information about how your information is handled.
-      </p>
 
-      <h2>6. App Availability and Updates</h2>
+      <!-- ===================================== -->
+      <!-- ACCEPTABLE USE -->
+      <!-- ===================================== -->
 
-      <p>
-        We aim to maintain Aravel and improve its features over time.
-      </p>
+      <section>
 
-      <p>However, we do not guarantee that:</p>
+        <h2>
+          3. Acceptable Use
+        </h2>
 
-      <ul>
-        <li>The App will always be available without interruption.</li>
-        <li>All books or features will remain available indefinitely.</li>
-        <li>The App will be compatible with every Android device or operating system version.</li>
-        <li>Errors or technical issues will never occur.</li>
-      </ul>
+        <p>
+          You agree to use Aravel for lawful personal and
+          non-commercial reading purposes.
+        </p>
 
-      <p>
-        We may modify, suspend, or discontinue certain features
-        when reasonably necessary, subject to applicable law.
-      </p>
+        <p>
+          You must not:
+        </p>
 
-      <h2>7. Disclaimer of Warranties</h2>
+        <ul>
+          <li>Use the App for unlawful activities.</li>
+          <li>Attempt to interfere with or compromise the App's security.</li>
+          <li>Reverse engineer, modify, or redistribute the App except where permitted by applicable law.</li>
+          <li>Exploit the App or its services in a manner that could damage or disrupt their operation.</li>
+          <li>Misrepresent ownership of original content, branding, or materials belonging to Arsene Studio.</li>
+        </ul>
 
-      <p>
-        Aravel is provided on an "as is" and "as available"
-        basis, to the extent permitted by applicable law.
-      </p>
+        <p>
+          You remain responsible for ensuring that your use of
+          literary content complies with the copyright laws
+          applicable in your jurisdiction.
+        </p>
 
-      <p>
-        Although we make reasonable efforts to maintain the
-        quality and accuracy of the App and its literary
-        collection, we do not guarantee that all content,
-        descriptions, metadata, or features will always be
-        complete, accurate, or error-free.
-      </p>
+      </section>
 
-      <p>
-        Nothing in these Terms excludes warranties or consumer
-        rights that cannot legally be excluded under applicable law.
-      </p>
 
-      <h2>8. Limitation of Liability</h2>
+      <!-- ===================================== -->
+      <!-- ADVERTISEMENTS -->
+      <!-- ===================================== -->
 
-      <p>
-        To the maximum extent permitted by applicable law,
-        Arsene Studio shall not be liable for indirect,
-        incidental, special, or consequential damages arising
-        from the use of or inability to use the App.
-      </p>
+      <section>
 
-      <p>
-        Nothing in these Terms limits or excludes liability
-        where such limitation or exclusion is prohibited by
-        applicable law, including liability for fraud,
-        intentional misconduct, or other non-excludable liabilities.
-      </p>
+        <h2>
+          4. Advertisements and Third-Party Services
+        </h2>
 
-      <h2>9. Changes to These Terms</h2>
+        <p>
+          Aravel may display advertisements provided by third-party
+          advertising partners, including Google AdMob.
+        </p>
 
-      <p>
-        We may update these Terms from time to time to reflect
-        changes to the App, our services, or applicable legal
-        requirements.
-      </p>
+        <p>
+          These advertisements help support the development,
+          maintenance, and continued availability of the App.
+        </p>
 
-      <p>
-        When changes are made, we will update the Effective Date
-        at the top of this document.
-      </p>
+        <ul>
+          <li>Advertisements may be personalized or non-personalized depending on applicable consent requirements and advertising settings.</li>
+          <li>Third-party advertisements may contain links to external websites or services.</li>
+          <li>We do not own or control third-party products, services, or websites advertised through the App.</li>
+          <li>Interactions, purchases, or transactions with third-party advertisers are subject to their respective terms and policies.</li>
+        </ul>
 
-      <p>
-        Continued use of Aravel after updated Terms become
-        effective constitutes acceptance of the revised Terms,
-        to the extent permitted by applicable law.
-      </p>
+        <p>
+          We are not responsible for the content, availability,
+          or practices of third-party services, to the extent
+          permitted by applicable law.
+        </p>
 
-      <h2>10. Termination</h2>
+      </section>
 
-      <p>
-        You may stop using Aravel at any time by discontinuing
-        its use or uninstalling the App.
-      </p>
 
-      <p>
-        We reserve the right to restrict or discontinue access
-        to the App where reasonably necessary, including in
-        cases of misuse, security concerns, or legal requirements,
-        subject to applicable law.
-      </p>
+      <!-- ===================================== -->
+      <!-- PRIVACY -->
+      <!-- ===================================== -->
 
-      <h2>11. Governing Law</h2>
+      <section>
 
-      <p>
-        These Terms are subject to applicable laws and regulations.
-      </p>
+        <h2>
+          5. Privacy
+        </h2>
 
-      <p>
-        Nothing in these Terms is intended to deprive consumers
-        of mandatory rights or legal protections available
-        under the laws of their country of residence.
-      </p>
+        <p>
+          Your privacy is important to us.
+        </p>
 
-      <h2>12. Contact Information</h2>
+        <p>
+          The collection, use, processing, and protection of
+          personal information are described in our Privacy Policy.
+        </p>
 
-      <p>
-        If you have questions, concerns, or requests regarding
-        these Terms, please contact us:
-      </p>
+        <p>
+          The App may use third-party services, including Google
+          AdMob, which may process certain information in accordance
+          with their respective privacy policies and applicable
+          data protection laws.
+        </p>
 
-      <p>
-        <strong>Developer:</strong> Arsene Studio<br>
-        <strong>Application:</strong> Aravel: Classic Books Library<br>
-        <strong>Email:</strong>
+        <p>
+          Please review our Privacy Policy for more information
+          about how your information is handled.
+        </p>
+
+        <p>
+          <a href="https://arsene-studio.github.io/privacy/aravel/">
+            View Aravel Privacy Policy
+          </a>
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- APP AVAILABILITY -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          6. App Availability and Updates
+        </h2>
+
+        <p>
+          We aim to maintain Aravel and improve its features over time.
+        </p>
+
+        <p>
+          However, we do not guarantee that:
+        </p>
+
+        <ul>
+          <li>The App will always be available without interruption.</li>
+          <li>All books or features will remain available indefinitely.</li>
+          <li>The App will be compatible with every Android device or operating system version.</li>
+          <li>Errors or technical issues will never occur.</li>
+        </ul>
+
+        <p>
+          We may modify, suspend, or discontinue certain features
+          when reasonably necessary, subject to applicable law.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- DISCLAIMER -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          7. Disclaimer of Warranties
+        </h2>
+
+        <p>
+          Aravel is provided on an "as is" and "as available"
+          basis, to the extent permitted by applicable law.
+        </p>
+
+        <p>
+          Although we make reasonable efforts to maintain the
+          quality and accuracy of the App and its literary
+          collection, we do not guarantee that all content,
+          descriptions, metadata, or features will always be
+          complete, accurate, or error-free.
+        </p>
+
+        <p>
+          Nothing in these Terms excludes warranties or consumer
+          rights that cannot legally be excluded under applicable law.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- LIMITATION OF LIABILITY -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          8. Limitation of Liability
+        </h2>
+
+        <p>
+          To the maximum extent permitted by applicable law,
+          Arsene Studio shall not be liable for indirect,
+          incidental, special, or consequential damages arising
+          from the use of or inability to use the App.
+        </p>
+
+        <p>
+          Nothing in these Terms limits or excludes liability
+          where such limitation or exclusion is prohibited by
+          applicable law, including liability for fraud,
+          intentional misconduct, or other non-excludable liabilities.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- CHANGES -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          9. Changes to These Terms
+        </h2>
+
+        <p>
+          We may update these Terms from time to time to reflect
+          changes to the App, our services, or applicable legal
+          requirements.
+        </p>
+
+        <p>
+          When changes are made, we will update the Effective Date
+          at the top of this document.
+        </p>
+
+        <p>
+          Continued use of Aravel after updated Terms become
+          effective constitutes acceptance of the revised Terms,
+          to the extent permitted by applicable law.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- TERMINATION -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          10. Termination
+        </h2>
+
+        <p>
+          You may stop using Aravel at any time by discontinuing
+          its use or uninstalling the App.
+        </p>
+
+        <p>
+          We reserve the right to restrict or discontinue access
+          to the App where reasonably necessary, including in
+          cases of misuse, security concerns, or legal requirements,
+          subject to applicable law.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- GOVERNING LAW -->
+      <!-- ===================================== -->
+
+      <section>
+
+        <h2>
+          11. Governing Law
+        </h2>
+
+        <p>
+          These Terms are subject to applicable laws and regulations.
+        </p>
+
+        <p>
+          Nothing in these Terms is intended to deprive consumers
+          of mandatory rights or legal protections available
+          under the laws of their country of residence.
+        </p>
+
+      </section>
+
+
+      <!-- ===================================== -->
+      <!-- CONTACT -->
+      <!-- ===================================== -->
+
+      <section class="contact">
+
+        <h2>
+          12. Contact Information
+        </h2>
+
+        <p>
+          If you have questions, concerns, or requests regarding
+          these Terms, please contact us.
+        </p>
+
+        <p>
+          <strong>Developer:</strong> Arsene Studio
+          <br>
+
+          <strong>Application:</strong>
+          Aravel: Classic Books Library
+        </p>
+
         <a href="mailto:arsenestudio.dev@gmail.com">
-          arsenestudio.dev@gmail.com
+          Contact Arsene Studio
+        </a>
+
+      </section>
+
+
+    </div>
+
+  </main>
+
+
+  <!-- ========================================= -->
+  <!-- FOOTER -->
+  <!-- ========================================= -->
+
+  <footer>
+
+    <div class="container">
+
+      <p>
+        © 2026 Arsene Studio. All rights reserved.
+      </p>
+
+      <p>
+        <a href="https://arsene-studio.github.io/support/aravel/">
+          Support
+        </a>
+
+        <a href="https://arsene-studio.github.io/privacy/aravel/">
+          Privacy Policy
+        </a>
+
+        <a href="terms-of-service.html">
+          Terms of Service
         </a>
       </p>
 
-      <p>
-        Thank you for choosing Aravel.
-        Enjoy reading the classics!
-      </p>
+    </div>
 
-      <p>
-        <strong>Arsene Studio</strong><br>
-        Developer of Aravel: Classic Books Library
-      </p>
-
-    </article>
-  </main>
-
-  <footer>
-    <p>&copy; 2026 Arsene Studio. All rights reserved.</p>
-    <p>
-      <a href="privacy-policy.html">Privacy Policy</a>
-      <a href="terms-of-service.html">Terms of Service</a>
-    </p>
   </footer>
 
 </body>
