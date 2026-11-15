@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "the-house-on-the-borderland",
+    "title": "The House on the Borderland",
+    "author": "William Hope Hodgson",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-house-on-the-borderland.jpg",
+    "published": 1908,
+    "language": "English",
+    "chapters": 27,
+    "description": "An unsettling tale centered on an isolated house standing at the edge of an unknown realm. William Hope Hodgson blends supernatural horror, strange visions, and cosmic terror as an unnamed narrator encounters forces beyond human understanding. First published in 1908, the novel is regarded as an influential early work of supernatural and cosmic horror.",
+    "copyright": {
+      "authorDeathYear": 1918,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-house-on-the-borderland.json"
+  },
+  {
+    "id": "the-jewel-of-seven-stars",
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-jewel-of-seven-stars.jpg",
+    "published": 1903,
+    "language": "English",
+    "chapters": 19,
+    "description": "A supernatural mystery involving an ancient Egyptian queen, a mysterious jewel, and a secret that reaches across centuries. Bram Stoker combines occult themes, archaeological intrigue, and Victorian suspense as his characters investigate a strange and dangerous attempt to revive an ancient power. The novel explores the boundaries between science, legend, and the supernatural.",
+    "copyright": {
+      "authorDeathYear": 1912,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-jewel-of-seven-stars.json"
+  },
+  {
+    "id": "the-strange-case",
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-strange-case.jpg",
+    "published": 1886,
+    "language": "English",
+    "chapters": 10,
+    "description": "A psychological Gothic tale about Dr. Henry Jekyll, a respected London physician who becomes fascinated by the darker side of human nature. Through a mysterious experiment, he creates a separate identity known as Mr. Hyde. Robert Louis Stevenson explores duality, morality, repression, and the consequences of allowing hidden desires to take control.",
+    "copyright": {
+      "authorDeathYear": 1894,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-strange-case.json"
+  },
+  {
+    "id": "the-great-god-pan",
+    "title": "The Great God Pan",
+    "author": "Arthur Machen",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-great-god-pan.jpg",
+    "published": 1894,
+    "language": "English",
+    "chapters": 5,
+    "description": "A disturbing supernatural tale built around an experiment intended to reveal hidden realities beyond the ordinary world. Arthur Machen blends Gothic horror, occult mystery, and forbidden knowledge as strange events unfold across the lives of several characters. The story is known for its eerie atmosphere and its exploration of forces existing beyond human perception.",
+    "copyright": {
+      "authorDeathYear": 1947,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-great-god-pan.json"
+  },
+  {
+    "id": "a-study-in-scarlet",
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/a-study-in-scarlet.jpg",
+    "published": 1887,
+    "language": "English",
+    "chapters": 14,
+    "description": "The first published adventure of Sherlock Holmes and Dr. John Watson. When a mysterious murder is discovered in London, Holmes applies his remarkable powers of observation and deduction to uncover the truth. Arthur Conan Doyle introduces the legendary detective partnership while combining Victorian crime investigation with a broader story of revenge, deception, and justice.",
+    "copyright": {
+      "authorDeathYear": 1930,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/a-study-in-scarlet.json"
+  },
+  {
+    "id": "the-sign-of-the-four",
+    "title": "The Sign of the Four",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-sign-of-the-four.jpg",
+    "published": 1890,
+    "language": "English",
+    "chapters": 12,
+    "description": "Sherlock Holmes and Dr. Watson become involved in a mysterious case involving a hidden treasure, a secret pact, and a series of unexplained events. Arthur Conan Doyle combines detective investigation with adventure, pursuit, and suspense. The novel further develops the partnership between Holmes and Watson while taking them beyond the streets of London.",
+    "copyright": {
+      "authorDeathYear": 1930,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-sign-of-the-four.json"
+  },
+  {
+    "id": "the-hound-of-the-baskervilles",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-hound-of-the-baskervilles.jpg",
+    "published": 1902,
+    "language": "English",
+    "chapters": 15,
+    "description": "Sherlock Holmes investigates the mysterious death of Sir Charles Baskerville and an ancient legend surrounding the Baskerville family. Set against the eerie landscape of Dartmoor, the case combines rational detective work with an atmosphere of supernatural dread. Arthur Conan Doyle creates a classic mystery filled with clues, suspicion, hidden motives, and an unforgettable legendary hound.",
+    "copyright": {
+      "authorDeathYear": 1930,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-hound-of-the-baskervilles.json"
+  },
+  {
+    "id": "the-thirty-nine-steps",
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-thirty-nine-steps.jpg",
+    "published": 1915,
+    "language": "English",
+    "chapters": 10,
+    "description": "Richard Hannay is drawn into a dangerous conspiracy after encountering a mysterious stranger who claims to possess vital information. Forced to flee across Britain, he must evade both the authorities and those determined to silence him. John Buchan combines espionage, mystery, pursuit, and adventure in a fast-moving thriller set against the tensions of the early twentieth century.",
+    "copyright": {
+      "authorDeathYear": 1940,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-thirty-nine-steps.json"
+  },
+  {
+    "id": "the-man-who-was-thursday",
+    "title": "The Man Who Was Thursday",
+    "author": "G. K. Chesterton",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-man-who-was-thursday.jpg",
+    "published": 1908,
+    "language": "English",
+    "chapters": 15,
+    "description": "A surreal mystery and adventure following Gabriel Syme, a poet recruited into an undercover battle against an anarchist organization. As identities become uncertain and events grow increasingly strange, the story moves between espionage, philosophical questions, and dark humor. G. K. Chesterton creates an unusual blend of detective fiction, political intrigue, symbolism, and psychological suspense.",
+    "copyright": {
+      "authorDeathYear": 1936,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-man-who-was-thursday.json"
+  },
+  {
+    "id": "the-innocence-of-father-brown",
+    "title": "The Innocence of Father Brown",
+    "author": "G. K. Chesterton",
+    "category": "Mystery & Detective",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-innocence-of-father-brown.jpg",
+    "published": 1911,
+    "language": "English",
+    "chapters": 12,
+    "description": "A collection of twelve detective stories featuring Father Brown, a quiet Catholic priest with an extraordinary understanding of human nature. Rather than relying solely on physical clues, Father Brown uses psychology, intuition, and his knowledge of human weakness to solve unusual crimes. G. K. Chesterton combines mystery, moral reflection, irony, and clever twists throughout the collection.",
+    "copyright": {
+      "authorDeathYear": 1936,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-innocence-of-father-brown.json"
+  },
+  {
+    "id": "the-time-machine",
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-time-machine.jpg",
+    "published": 1895,
+    "language": "English",
+    "chapters": 16,
+    "description": "A pioneering science fiction novel about an inventor who develops a machine capable of traveling through time. His journey far into the future reveals a strange world inhabited by descendants of humanity and shaped by profound social and evolutionary changes. H. G. Wells combines scientific speculation, adventure, and social commentary in a landmark work of early science fiction.",
+    "copyright": {
+      "authorDeathYear": 1946,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-time-machine.json"
+  },
+  {
+    "id": "the-lost-world",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-lost-world.jpg",
+    "published": 1912,
+    "language": "English",
+    "chapters": 16,
+    "description": "Professor Challenger leads an expedition into an unexplored region of South America where prehistoric creatures are believed to have survived. Accompanied by journalist Edward Malone and other explorers, the group faces dinosaurs, hostile environments, and unexpected dangers. Arthur Conan Doyle combines scientific curiosity, exploration, adventure, and survival in a classic tale of discovery.",
+    "copyright": {
+      "authorDeathYear": 1930,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-lost-world.json"
+  },
+  {
+    "id": "the-poison-belt",
+    "title": "The Poison Belt",
+    "author": "Arthur Conan Doyle",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-poison-belt.jpg",
+    "published": 1913,
+    "language": "English",
+    "chapters": 6,
+    "description": "Professor Challenger summons his companions when a mysterious cosmic threat appears to place all life on Earth in danger. As the atmosphere itself becomes deadly, the characters confront the possibility of humanity's sudden extinction. Arthur Conan Doyle blends scientific speculation, suspense, survival, and apocalyptic ideas in this short sequel to The Lost World.",
+    "copyright": {
+      "authorDeathYear": 1930,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-poison-belt.json"
+  },
+  {
+    "id": "herland",
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/herland.jpg",
+    "published": 1915,
+    "language": "English",
+    "chapters": 12,
+    "description": "Three explorers discover a hidden society inhabited entirely by women, isolated from the outside world for generations. As they learn about its history, social structure, education, and values, their assumptions about gender and civilization are challenged. Charlotte Perkins Gilman uses speculative fiction to explore equality, motherhood, social organization, progress, and the possibilities of an alternative society.",
+    "copyright": {
+      "authorDeathYear": 1935,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/herland.json"
+  },
+  {
+    "id": "the-scarlet-plague",
+    "title": "The Scarlet Plague",
+    "author": "Jack London",
+    "category": "Science Fiction",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-scarlet-plague.jpg",
+    "published": 1915,
+    "language": "English",
+    "chapters": 6,
+    "description": "Set decades after a devastating epidemic has nearly destroyed human civilization, an elderly survivor tells his grandchildren about the world before the catastrophe. Jack London imagines a future shaped by disease, social collapse, survival, and the gradual loss of knowledge. The novel reflects on civilization's fragility and humanity's struggle to rebuild after disaster.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-scarlet-plague.json"
+  },
+  {
+    "id": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-great-gatsby.jpg",
+    "published": 1925,
+    "language": "English",
+    "chapters": 9,
+    "description": "Set in the wealthy world of 1920s Long Island, the novel follows Nick Carraway as he becomes drawn into the mysterious life of his neighbor, Jay Gatsby. Behind Gatsby's lavish parties lies a deep longing for a lost love and an idealized past. F. Scott Fitzgerald explores ambition, wealth, social class, illusion, and the fragility of the American Dream.",
+    "copyright": {
+      "authorDeathYear": 1940,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-great-gatsby.json"
+  },
+  {
+    "id": "the-picture-of-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-picture-of-dorian-gray.jpg",
+    "published": 1890,
+    "language": "English",
+    "chapters": 20,
+    "description": "Dorian Gray, a handsome young man, becomes obsessed with preserving his youth and beauty after seeing a portrait of himself. Under the influence of Lord Henry Wotton, he pursues a life of pleasure while the portrait mysteriously records the corruption of his soul. The novel explores desire, beauty, temptation, love, morality, and the destructive consequences of a life devoted to pleasure.",
+    "copyright": {
+      "authorDeathYear": 1900,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-picture-of-dorian-gray.json"
+  },
+  {
+    "id": "the-europeans",
+    "title": "The Europeans",
+    "author": "Henry James",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-europeans.jpg",
+    "published": 1878,
+    "language": "English",
+    "chapters": 12,
+    "description": "Two European relatives arrive in New England and bring their unfamiliar manners, romantic expectations, and worldly experiences into a conservative American family. As relationships develop, the novel explores courtship, marriage, cultural differences, social expectations, and the contrasting values of European and American society.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-europeans.json"
+  },
+  {
+    "id": "king-solomons-mines",
+    "title": "King Solomon's Mines",
+    "author": "H. Rider Haggard",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/king-solomons-mines.jpg",
+    "published": 1885,
+    "language": "English",
+    "chapters": 20,
+    "description": "Allan Quatermain joins Sir Henry Curtis and Captain Good on a dangerous expedition into the unexplored interior of Africa in search of a legendary lost treasure. Their journey brings them into conflict, danger, and unexpected relationships as they encounter unfamiliar kingdoms and ancient secrets. The novel combines adventure, romance, friendship, and the excitement of exploration.",
+    "copyright": {
+      "authorDeathYear": 1925,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/king-solomons-mines.json"
+  },
+  {
+    "id": "the-princess-of-cleves",
+    "title": "The Princess of Cleves",
+    "author": "Madame de La Fayette",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-princess-of-cleves.jpg",
+    "published": 1678,
+    "language": "English",
+    "chapters": 4,
+    "description": "Set in the royal court of sixteenth-century France, the novel follows a young woman who marries the Prince of Cleves but develops a powerful and forbidden love for the Duke of Nemours. Torn between passion, duty, and virtue, she struggles to remain faithful to her principles while confronting the consequences of love and jealousy within a court filled with intrigue.",
+    "copyright": {
+      "authorDeathYear": 1693,
+      "originalLanguage": "French",
+      "isTranslation": true,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-princess-of-cleves.json"
+  },
+  {
+    "id": "the-sorrows-of-young-werther",
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-sorrows-of-young-werther.jpg",
+    "published": 1774,
+    "language": "English",
+    "chapters": 2,
+    "description": "Through a series of letters, the young Werther describes his intense emotions and growing love for Charlotte, a woman who is already engaged to another man. Unable to reconcile his passionate feelings with the reality of their circumstances, Werther becomes increasingly consumed by longing, loneliness, and despair. The novel explores unrequited love, emotional obsession, friendship, and the conflict between passion and reason.",
+    "copyright": {
+  "authorDeathYear": 1832,
+  "originalLanguage": "German",
+  "isTranslation": true,
+  "translatorDeathYear": 1888,
+  "specialCase": null
+},
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-sorrows-of-young-werther.json"
+  },
+  {
+    "id": "cranford",
+    "title": "Cranford",
+    "author": "Elizabeth Gaskell",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/cranford.jpg",
+    "published": 1853,
+    "language": "English",
+    "chapters": 16,
+    "description": "Cranford follows the lives, friendships, and quiet dramas of the women living in a small Victorian English town. Through stories of companionship, loss, social customs, and long-forgotten relationships, the novel portrays the importance of affection and community in everyday life. Its gentle humor and emotional moments reveal how love and friendship endure through changing times.",
+    "copyright": {
+      "authorDeathYear": 1865,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/cranford.json"
+  },
+  {
+    "id": "the-aspern-papers",
+    "title": "The Aspern Papers",
+    "author": "Henry James",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-aspern-papers.jpg",
+    "published": 1888,
+    "language": "English",
+    "chapters": 9,
+    "description": "An ambitious literary scholar travels to Venice in search of the private letters of the famous poet Jeffrey Aspern, hoping to obtain valuable material about the poet and his former lover. He secretly rents rooms from the elderly woman who possesses the papers and becomes entangled with her niece. The story explores obsession, desire, secrecy, manipulation, and the dangerous boundaries between love and possession.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-aspern-papers.json"
+  },
+  {
+    "id": "daisy-miller",
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/daisy-miller.jpg",
+    "published": 1878,
+    "language": "English",
+    "chapters": 2,
+    "description": "Frederick Winterbourne becomes fascinated by Daisy Miller, a young American woman whose independent behavior challenges the strict social conventions of European society. Their relationship develops amid misunderstandings, gossip, and conflicting expectations about proper conduct. The story explores attraction, innocence, social judgment, reputation, and the consequences of refusing to conform to society's rules.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/daisy-miller.json"
+  },
+  {
+    "id": "the-altar-of-the-dead",
+    "title": "The Altar of the Dead",
+    "author": "Henry James",
+    "category": "Romance",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-altar-of-the-dead.jpg",
+    "published": 1895,
+    "language": "English",
+    "chapters": 9,
+    "description": "A grieving man creates a private altar dedicated to the memory of the people he has lost, seeking a way to preserve their presence beyond death. His devotion to the dead becomes intertwined with his complicated relationship with an old acquaintance who holds a different view of remembrance and forgiveness. The story explores grief, memory, love, friendship, and the enduring bonds between people separated by death.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-altar-of-the-dead.json"
+  },
+  {
+    "id": "kim",
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/kim.jpg",
+    "published": 1901,
+    "language": "English",
+    "chapters": 15,
+    "description": "Kimball O'Hara, an orphan growing up on the streets of British India, becomes involved in a dangerous political struggle known as the Great Game. Traveling across India with a Tibetan lama while working as a spy, Kim encounters soldiers, merchants, holy men, and mysterious agents. Rudyard Kipling combines adventure, espionage, friendship, and a vivid portrait of India during the British colonial period.",
+    "copyright": {
+      "authorDeathYear": 1936,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/kim.json"
+  },
+  {
+    "id": "the-call-of-the-wild",
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-call-of-the-wild.jpg",
+    "published": 1903,
+    "language": "English",
+    "chapters": 7,
+    "description": "Buck, a powerful domesticated dog, is stolen from his comfortable home and forced into the brutal life of a sled dog during the Klondike Gold Rush. As he struggles against harsh conditions, rival dogs, and cruel masters, Buck gradually reconnects with his primitive instincts and the wilderness. Jack London explores survival, loyalty, strength, and the powerful pull of nature.",
+    "copyright": {
+      "authorDeathYear": 1916,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-call-of-the-wild.json"
+  },
+  {
+    "id": "the-ebb-tide",
+    "title": "The Ebb-Tide",
+    "author": "Robert Louis Stevenson and Lloyd Osbourne",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-ebb-tide.jpg",
+    "published": 1894,
+    "language": "English",
+    "chapters": 12,
+    "description": "Four desperate men aboard a ship in the South Pacific become involved in a dangerous scheme after discovering an opportunity to escape their troubled lives. Their journey takes them through deception, greed, disease, and moral conflict as they pursue fortune on a remote island. Robert Louis Stevenson and Lloyd Osbourne create a dark maritime adventure that examines survival, corruption, and the consequences of desperation.",
+    "copyright": {
+  "authorDeathYear": 1947,
+  "originalLanguage": "English",
+  "isTranslation": false,
+  "translatorDeathYear": null,
+  "specialCase": null
+},
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-ebb-tide.json"
+  },
+  {
+    "id": "the-wrong-box",
+    "title": "The Wrong Box",
+    "author": "Robert Louis Stevenson and Lloyd Osbourne",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-wrong-box.jpg",
+    "published": 1889,
+    "language": "English",
+    "chapters": 16,
+    "description": "A valuable inheritance, a mistaken identity, and a body accidentally placed in the wrong box set off a chaotic chain of events involving two brothers and a group of unlikely characters. As the characters attempt to protect themselves and claim their fortunes, the story becomes a series of comic pursuits, misunderstandings, and unexpected adventures. Robert Louis Stevenson and Lloyd Osbourne combine adventure, black comedy, and farce in this fast-moving tale.",
+    "copyright": {
+  "authorDeathYear": 1947,
+  "originalLanguage": "English",
+  "isTranslation": false,
+  "translatorDeathYear": null,
+  "specialCase": null
+},
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-wrong-box.json"
+  },
+  {
+    "id": "prester-john",
+    "title": "Prester John",
+    "author": "John Buchan",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/prester-john.jpg",
+    "published": 1910,
+    "language": "English",
+    "chapters": 23,
+    "description": "David Crawfurd, a young Scottish man serving in colonial Africa, becomes caught up in a dangerous uprising led by a charismatic African leader who claims the title of Prester John. Forced to navigate unfamiliar territory, political conflict, and violent rebellion, David faces a series of perilous encounters across the African landscape. John Buchan combines exploration, suspense, warfare, and adventure in a classic tale of imperial-era intrigue.",
+    "copyright": {
+      "authorDeathYear": 1940,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/prester-john.json"
+  },
+  {
+    "id": "the-prisoner-of-zenda",
+    "title": "The Prisoner of Zenda",
+    "author": "Anthony Hope",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-prisoner-of-zenda.jpg",
+    "published": 1894,
+    "language": "English",
+    "chapters": 22,
+    "description": "Rudolf Rassendyll, an English gentleman traveling in the fictional kingdom of Ruritania, discovers that he bears a remarkable resemblance to the country's king. When the king is kidnapped on the eve of his coronation, Rudolf is persuaded to impersonate him and protect the throne. Anthony Hope combines sword fights, political intrigue, romance, loyalty, and daring escapes in one of the classic adventure novels of the Victorian era.",
+    "copyright": {
+      "authorDeathYear": 1933,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-prisoner-of-zenda.json"
+  },
+  {
+    "id": "the-master-of-ballantrae",
+    "title": "The Master of Ballantrae",
+    "author": "Robert Louis Stevenson",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-master-of-ballantrae.jpg",
+    "published": 1889,
+    "language": "English",
+    "chapters": 12,
+    "description": "The bitter rivalry between two Scottish brothers, James and Henry Durie, grows after James joins the Jacobite cause while Henry remains loyal to the government. Their conflict follows them across Scotland, the American wilderness, and the seas, bringing betrayal, revenge, violence, and shifting fortunes. Robert Louis Stevenson blends historical adventure with psychological drama as the brothers become locked in a struggle that follows them across the world.",
+    "copyright": {
+      "authorDeathYear": 1894,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-master-of-ballantrae.json"
+  },
+  {
+    "id": "the-red-badge-of-courage",
+    "title": "The Red Badge of Courage",
+    "author": "Stephen Crane",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-red-badge-of-courage.jpg",
+    "published": 1895,
+    "language": "English",
+    "chapters": 24,
+    "description": "Henry Fleming, a young soldier in the American Civil War, dreams of proving his courage in battle but becomes overwhelmed by fear when he finally faces combat. After fleeing from the battlefield, he struggles with shame and uncertainty before seeking a chance to regain his sense of honor. Stephen Crane presents war through the psychological experience of a young soldier, exploring fear, courage, survival, and the search for personal identity.",
+    "copyright": {
+      "authorDeathYear": 1900,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-red-badge-of-courage.json"
+  },
+  {
+    "id": "the-wonderful-wizard-of-oz",
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "category": "Adventure",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-wonderful-wizard-of-oz.jpg",
+    "published": 1900,
+    "language": "English",
+    "chapters": 24,
+    "description": "When a powerful cyclone carries Dorothy Gale from Kansas to the magical land of Oz, she begins a journey along the Yellow Brick Road in search of the Wizard who she believes can help her return home. Along the way she befriends a Scarecrow seeking a brain, a Tin Woodman longing for a heart, and a Cowardly Lion wishing for courage. L. Frank Baum creates a fantastical adventure about friendship, courage, self-discovery, and the search for home.",
+    "copyright": {
+      "authorDeathYear": 1919,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-wonderful-wizard-of-oz.json"
+  },
+  {
+    "id": "alices-adventures-in-wonderland",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/alices-adventures-in-wonderland.jpg",
+    "published": 1865,
+    "language": "English",
+    "chapters": 12,
+    "description": "Alice follows a white rabbit down a mysterious rabbit hole and finds herself in the strange and unpredictable world of Wonderland. She encounters talking animals, bizarre creatures, the Mad Hatter, the Cheshire Cat, and the temperamental Queen of Hearts while trying to find her way home. Lewis Carroll combines playful wordplay, absurd logic, and imaginative characters to create a fantasy adventure that challenges ordinary ideas about language, identity, and reason.",
+    "copyright": {
+      "authorDeathYear": 1898,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/alices-adventures-in-wonderland.json"
+  },
+  {
+    "id": "through-the-looking-glass",
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/through-the-looking-glass.jpg",
+    "published": 1871,
+    "language": "English",
+    "chapters": 12,
+    "description": "Alice steps through a looking-glass into a strange world where everything seems to follow its own unusual rules. As she travels across a giant chessboard, she meets characters such as Tweedledum and Tweedledee, Humpty Dumpty, the White Queen, and the Red Queen while trying to become a queen herself. Lewis Carroll fills the story with wordplay, riddles, reversed logic, and dreamlike encounters that turn a child's journey into a playful exploration of language and imagination.",
+    "copyright": {
+      "authorDeathYear": 1898,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/through-the-looking-glass.json"
+  },
+  {
+    "id": "the-wind-in-the-willows",
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-wind-in-the-willows.jpg",
+    "published": 1908,
+    "language": "English",
+    "chapters": 12,
+    "description": "Mole leaves his quiet home and discovers a new world along the river, where he becomes friends with Rat, Badger, and the reckless Toad. Toad's obsession with motorcars leads him into a series of dangerous and comic adventures, while his friends struggle to help him regain control of his life and home. Kenneth Grahame combines talking animals, pastoral landscapes, friendship, humor, and adventure in a nostalgic fantasy about companionship, home, and the pleasures of the natural world.",
+    "copyright": {
+      "authorDeathYear": 1932,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-wind-in-the-willows.json"
+  },
+  {
+    "id": "the-phoenix-and-the-carpet",
+    "title": "The Phoenix and the Carpet",
+    "author": "E. Nesbit",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-phoenix-and-the-carpet.jpg",
+    "published": 1904,
+    "language": "English",
+    "chapters": 12,
+    "description": "Four children discover a magical carpet containing an egg that hatches into a talking Phoenix, whose powers allow them to travel through extraordinary adventures. Their attempts to use the carpet's magic lead them into unexpected situations involving distant places, magical objects, and the consequences of making wishes. E. Nesbit combines humor, everyday childhood experiences, and imaginative magic to create a playful fantasy in which ordinary children encounter an extraordinary world.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-phoenix-and-the-carpet.json"
+  },
+  {
+    "id": "the-enchanted-castle",
+    "title": "The Enchanted Castle",
+    "author": "E. Nesbit",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-enchanted-castle.jpg",
+    "published": 1907,
+    "language": "English",
+    "chapters": 12,
+    "description": "Three children exploring the countryside discover what appears to be an enchanted castle and meet a mysterious girl who claims to be a princess. A magical ring then turns their games and wishes into increasingly complicated adventures, causing transformations that are far more troublesome than they expected. E. Nesbit blends childhood imagination, humor, magic, and adventure while exploring the difference between pretending that something is true and dealing with the consequences when magic becomes real.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-enchanted-castle.json"
+  },
+  {
+    "id": "the-magic-city",
+    "title": "The Magic City",
+    "author": "E. Nesbit",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-magic-city.jpg",
+    "published": 1910,
+    "language": "English",
+    "chapters": 12,
+    "description": "Philip, a lonely boy fascinated by building models, creates an elaborate city from books, furniture, and household objects. One night the city becomes real, drawing him into a strange world where buildings, inhabitants, and adventures emerge from his imagination. E. Nesbit transforms the familiar world of childhood play into a magical landscape, combining fantasy, adventure, humor, and themes of loneliness, creativity, friendship, and growing up.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-magic-city.json"
+  },
+  {
+    "id": "the-story-of-the-amulet",
+    "title": "The Story of the Amulet",
+    "author": "E. Nesbit",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-story-of-the-amulet.jpg",
+    "published": 1906,
+    "language": "English",
+    "chapters": 14,
+    "description": "The four children from E. Nesbit's earlier magical adventures discover half of an ancient amulet and search for the missing piece so they can restore its power. Their quest sends them through different periods of history, where they encounter ancient civilizations, famous historical figures, and extraordinary dangers. E. Nesbit combines historical imagination with magic and childhood adventure, using the children's journey to explore friendship, curiosity, courage, and the relationship between the past and the present.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-story-of-the-amulet.json"
+  },
+  {
+    "id": "the-little-lame-prince",
+    "title": "The Little Lame Prince and His Travelling Cloak",
+    "author": "Dinah Maria Mulock Craik",
+    "category": "Fantasy",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-little-lame-prince.jpg",
+    "published": 1875,
+    "language": "English",
+    "chapters": 10,
+    "description": "Prince Dolor is confined to a lonely tower after losing his parents and being separated from the life he should have known. His fortunes change when a magical travelling cloak allows him to fly beyond the tower and observe the wider world, leading him to encounters with people, kingdoms, and difficult moral choices. Dinah Maria Mulock Craik combines fairy-tale adventure with themes of compassion, responsibility, suffering, and personal growth in a story about a young prince learning to understand the world beyond his own confinement.",
+    "copyright": {
+      "authorDeathYear": 1887,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-little-lame-prince.json"
+  },
+  {
+    "id": "persuasion",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/persuasion.jpg",
+    "published": 1817,
+    "language": "English",
+    "chapters": 24,
+    "description": "Anne Elliot is persuaded by her family to reject Captain Frederick Wentworth, the man she loves, because of his uncertain prospects. Years later, they meet again when Wentworth has become a successful naval officer, forcing Anne to confront the feelings she never truly abandoned. Jane Austen explores love, regret, social expectations, family pressure, and the possibility of a second chance in this mature and quietly emotional novel.",
+    "copyright": {
+      "authorDeathYear": 1817,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/persuasion.json"
+  },
+  {
+    "id": "the-scarlet-letter",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-scarlet-letter.jpg",
+    "published": 1850,
+    "language": "English",
+    "chapters": 24,
+    "description": "Hester Prynne is publicly punished and forced to wear a scarlet letter after giving birth to a child outside marriage in the strict Puritan community of seventeenth-century Massachusetts. Refusing to reveal the identity of the child's father, Hester faces years of shame while the hidden guilt of others gradually emerges. Nathaniel Hawthorne explores sin, guilt, punishment, hypocrisy, identity, and redemption against the atmosphere of Puritan New England.",
+    "copyright": {
+      "authorDeathYear": 1864,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-scarlet-letter.json"
+ },
+ {
+    "id": "silas-marner",
+    "title": "Silas Marner",
+    "author": "George Eliot",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/silas-marner.jpg",
+    "published": 1861,
+    "language": "English",
+    "chapters": 21,
+    "description": "Silas Marner, a lonely weaver living in the village of Raveloe, loses his faith in other people after being betrayed by a close friend and wrongly accused of theft. He withdraws from society and becomes obsessed with the gold he has accumulated until the arrival of an orphaned child changes his life. George Eliot explores isolation, community, betrayal, love, redemption, and the transformative power of human connection.",
+    "copyright": {
+      "authorDeathYear": 1880,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/silas-marner.json"
+  },
+  {
+    "id": "ethan-frome",
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/ethan-frome.jpg",
+    "published": 1911,
+    "language": "English",
+    "chapters": 10,
+    "description": "Ethan Frome lives a bleak and isolated life on a farm in the harsh New England winter with his sickly and demanding wife, Zeena. His life changes when Zeena's young cousin Mattie Silver comes to live with them, and Ethan develops a deep love for her that conflicts with his responsibilities and circumstances. Edith Wharton creates a tragic portrait of desire, poverty, loneliness, duty, and the limitations imposed by social and economic circumstances.",
+    "copyright": {
+      "authorDeathYear": 1937,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/ethan-frome.json"
+  },
+  {
+    "id": "the-house-of-the-seven-gables",
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-house-of-the-seven-gables.jpg",
+    "published": 1851,
+    "language": "English",
+    "chapters": 21,
+    "description": "The Pyncheon family lives beneath the shadow of an ancestral curse connected to an old house and the questionable actions of their ancestor, Colonel Pyncheon. As Hepzibah Pyncheon struggles to maintain the decaying family home, her brother Clifford returns after years of imprisonment, while the arrival of the cheerful young Phoebe brings new hope. Nathaniel Hawthorne combines family drama, historical guilt, romance, and Gothic atmosphere to examine the lasting consequences of greed, injustice, and inherited wrongdoing.",
+    "copyright": {
+      "authorDeathYear": 1864,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-house-of-the-seven-gables.json"
+  },
+  {
+    "id": "agnes-grey",
+    "title": "Agnes Grey",
+    "author": "Anne Brontë",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/agnes-grey.jpg",
+    "published": 1847,
+    "language": "English",
+    "chapters": 25,
+    "description": "Agnes Grey becomes a governess to help support her financially struggling family and discovers that working for wealthy households is far more difficult than she imagined. She faces spoiled children, indifferent parents, and the restrictions of Victorian social expectations while gradually developing feelings for the kindly curate Edward Weston. Anne Brontë draws on the realities of governess life to explore independence, class, morality, love, and the dignity of ordinary work.",
+    "copyright": {
+      "authorDeathYear": 1849,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/agnes-grey.json"
+  },
+  {
+    "id": "the-gambler",
+    "title": "The Gambler",
+    "author": "Fyodor Dostoyevsky",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-gambler.jpg",
+    "published": 1866,
+    "language": "English",
+    "chapters": 17,
+    "description": "Alexey Ivanovich, a young tutor employed by a financially troubled Russian family, becomes increasingly consumed by roulette while staying at a German gambling resort. His fascination with the game becomes intertwined with his complicated feelings for Polina and the family's desperate hopes for a fortune. Fyodor Dostoyevsky explores obsession, greed, humiliation, love, impulsiveness, and the psychological grip of gambling through Alexey's increasingly unstable experiences.",
+    "copyright": {
+      "authorDeathYear": 1881,
+      "originalLanguage": "Russian",
+      "isTranslation": true,
+      "translatorDeathYear": 1942,
+      "specialCase": "English translation by C. J. Hogarth"
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-gambler.json"
+  },
+  {
+    "id": "the-railway-children",
+    "title": "The Railway Children",
+    "author": "E. Nesbit",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-railway-children.jpg",
+    "published": 1906,
+    "language": "English",
+    "chapters": 14,
+    "description": "Roberta, Peter, and Phyllis move with their mother to a modest home in the countryside after their father suddenly disappears. Living near a railway line, the children become fascinated by the trains and gradually form friendships with railway workers and other people in the community. E. Nesbit combines childhood adventure, family loyalty, mystery, kindness, and resilience as the children try to help others while hoping to discover what happened to their father.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-railway-children.json"
+  },
+  {
+    "id": "the-story-of-the-treasure-seekers",
+    "title": "The Story of the Treasure Seekers",
+    "author": "E. Nesbit",
+    "category": "Classic Literature",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-story-of-the-treasure-seekers.jpg",
+    "published": 1899,
+    "language": "English",
+    "chapters": 16,
+    "description": "The six Bastable children decide that they must restore their family's fortunes after their father suffers financial difficulties. Determined to become heroes and treasure seekers, they repeatedly attempt schemes inspired by adventure stories and their own imaginations, often producing comic and unexpected results. E. Nesbit tells the story through the children's perspective, combining humor, innocence, family affection, and the imaginative determination of children who believe that almost any problem can be solved through adventure.",
+    "copyright": {
+      "authorDeathYear": 1924,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-story-of-the-treasure-seekers.json"
+  },
+  {
+    "id": "the-king-in-yellow",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-king-in-yellow.jpg",
+    "published": 1895,
+    "language": "English",
+    "chapters": 10,
+    "description": "A collection of strange and unsettling stories connected by references to a mysterious forbidden play called The King in Yellow. Those who encounter the play's disturbing words and the mysterious Yellow Sign are drawn into madness, obsession, and supernatural terror. Robert W. Chambers blends psychological horror, eerie symbolism, decadent atmosphere, and elements of the supernatural in a collection that became influential in weird and cosmic fiction.",
+    "copyright": {
+      "authorDeathYear": 1933,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-king-in-yellow.json"
+  },
+  {
+    "id": "ghost-stories-of-an-antiquary",
+    "title": "Ghost Stories of an Antiquary",
+    "author": "M. R. James",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/ghost-stories-of-an-antiquary.jpg",
+    "published": 1904,
+    "language": "English",
+    "chapters": 8,
+    "description": "A collection of eight supernatural tales featuring haunted objects, ancient manuscripts, mysterious figures, and encounters with terrifying forces from the past. Stories such as Lost Hearts, The Mezzotint, Count Magnus, and Oh, Whistle, and I'll Come to You, My Lad reveal how ordinary curiosity can lead to extraordinary danger. M. R. James creates suspense through scholarly discoveries, unsettling details, and an atmosphere of quiet but deeply disturbing supernatural horror.",
+    "copyright": {
+      "authorDeathYear": 1936,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/ghost-stories-of-an-antiquary.json"
+  },
+  {
+    "id": "the-willows",
+    "title": "The Willows",
+    "author": "Algernon Blackwood",
+    "category": "Gothic Horror",
+    "cover": "https://arsene-studio.github.io/aravel/covers/the-willows.jpg",
+    "published": 1907,
+    "language": "English",
+    "chapters": 4,
+    "description": "Two travelers journey by canoe along the Danube River and become stranded on a remote island surrounded by dense willow trees. As strange disturbances begin to affect their camp, they sense an invisible presence that seems to exist beyond the boundaries of the human world. Algernon Blackwood combines isolation, psychological tension, nature, and cosmic dread in an atmospheric tale about humanity's vulnerability before mysterious supernatural forces.",
+    "copyright": {
+      "authorDeathYear": 1951,
+      "originalLanguage": "English",
+      "isTranslation": false,
+      "translatorDeathYear": null,
+      "specialCase": null
+    },
+    "source": "remote",
+    "data": "https://arsene-studio.github.io/aravel/novels/the-willows.json"
+  }
+]
